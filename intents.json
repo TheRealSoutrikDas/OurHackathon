@@ -1,0 +1,820 @@
+{
+    "intents":
+    [
+        {
+            "tag" : "aircraftACT1884",
+            "patterns":[
+                "aircraft",
+                "What is an aircraft",
+                "examples of aircraft"
+            ],
+            "response":[
+                "\"aircraft\" means any machine which can derive support in the atmosphere from the reactions of the air, other than the reactions of the air against the earth's surface , ans included, weather fixed or free, airships, kites, gilders and flying machines"
+            ],
+            "context": " "
+        },
+        {
+            "tag" : "carriageACT1884",
+            "patterns":[
+                "carriage",
+                "What is an carriage",
+                "what is used for transporting on land"
+            ],
+            "response":[
+                "\"carriage\" includes any carriage, wagon, cart, truck, vehicle or other means of conveying goods or passengers by land, in whatever manner the same may be propelled"
+            ],
+            "context": " "
+        },
+        {
+            "tag": "District MagistrateACT1884",
+            "patterns": [
+                "District Magistrate",
+                "what is a District Magistrate"
+            ],
+            "response": [ 
+                "\"District Magistrate\", in a relation to any area for which a Commissioner of Police has been appointed, means the Commissioner of Police thereof and includes--\n(a) any such Deputy Commissioner of Police,casing jurisdiction over the whole or any part of such area, as may be specified by the State Government in this behalf in relation to such area or part: and \n(b) an Additional District Magistrate;"
+            ],
+            "context": " " 
+        },
+        {
+            "tag": "explosiveACT1884",
+            "patterns": [
+                "explosive",
+                "what can be used as explosives",
+                "explosive chemicals"
+            ],
+            "response": [
+                "\"explosive\" means gunpowder, nitoglycerine, nitroglycol, gun-cotton, di-nitro-toluene,\ntri-nitro-toluene, picric acid, di-nitro-phenol, tri-nitro-resorcinol (styphnic acid), cyclo-trime-thylene-trinitramine, penta-erythritol-tetranitrate, tetryl, nitro-guanidine, leadazide, lead styphynate, fulminate of mercury or any other metal, diazo-di-nitro-phenol, coloured fires or any other substance whether a single chemical compound or a mixture of substances, whether solid or liquid or gaseous used or manufactured with a view to produce a practical effect by explosion or pyrotechnic effect; and includes fog-signals, fireworks, fuses, rockets, percussion-caps, detonators, cartidgcs, ammunition of all descriptions and every adaptation or preparation of an explosive as defined in this clause\nFor more info. SEE ACt 17 of Explosive Act,1884"
+            ],
+            "context": " " 
+        },
+        {
+            "tag": "exportACT1884",
+            "patterns": [
+                "export",
+                 "what is exporting",
+                 "what do you mean by exporting",
+                 "taking out of India"
+            ],
+            "response": [
+                "\"export\"means taking out of India to a place outside India by land, sea or air"
+            ],
+            "context": ""
+        },
+        {
+            "tag": "importACT1884",
+            "patterns": [
+                "import",
+                 "what is importing",
+                 "what do you mean by importing",
+                 "bring to india"
+            ],
+            "response": [
+                "\"import\" means to bring into India from a place outside India by land, sea or air"
+            ],
+            "context": " "
+        },
+        {
+            "tag": "masterACT1884",
+            "patterns": [
+                 "master",
+                 "what is a master",
+                 "having a vessel or aircraft",
+                 "owning a vessel or aircraft"
+            ],
+            "response": [
+                "\"A master is\n\"(a) in relation to any vessel or aircraft means any person, other than a pilot, harbour master, assistant harbour master or berthing master, having for the time being the charge or control of such vessel or aircraft, as the ease may be; and \n(b) in relation to any boat belonging to a ship, means the master of that ship;"
+            ],
+            "context": " "
+        },
+        {
+            "tag": "manufactureACT1884",
+            "patterns": [
+                 "manufacture",
+                 "what is a manufacture",
+                 "who repairs",
+                 "who alters",
+                 "who re-makes",
+                 "who handles explosives"
+            ],
+            "response": [
+                "\"manufacture\" in relation to an explosive includes the process of—\n(1) dividing the explosive into its component parts or otherwise breaking up or unmaking the explosive, or making fit for use any damaged explosive; and\n(2) re-making, altering or repairing the explosive"
+            ],
+            "context": " "
+        },
+        {
+            "tag": "vesselACT1884",
+            "patterns": [
+                 "vessel",
+                 "what is a vessel",
+                 "what is used in navigation",
+                 "what is used for tranposting"
+            ],
+            "response": [
+                "\"vessel\" includes any ship, boat,sailing vessel, or other description of vessel used in navigation whether propelled by oars or otherwise and anything made for the conveyance mainly by water, of human beings or of goods and a caisson."
+            ],
+            "context": " "
+        },
+        {
+            "tag" : "ACT_5_explosives_regulations",
+            "patterns": [
+                "act 5 of 1884",
+                "what is the act 5 of 1884",
+                "tell me about the act 5 of 1884",
+                "Can anyone possess explosives?", 
+                "who can possess explosives?", 
+                "which act gives the Government of India power to make rules",
+                "Power to make rules as to licensing of the manufacture, use, sale, transport, import and export of explosives",
+                "What does the Central Government have the power to regulate?",
+                "Can you explain the licensing rules for explosives?",
+                "Who can grant licenses for explosives?",
+                "How long do licenses for explosives remain valid?",
+                "What are the fees associated with explosives licenses?",
+                "Are there any exemptions from explosives regulations?"
+            ],
+            "response":[
+                "“Act 5, Explosive Act, 1884\nPower to make rules as to licensing of the manufacture, possession, use, sale, transport, import and export of explosives. — (1) The Central Government may, for any part of [India], make rules consistent with this Act to regulate or prohibit, except under and in accordance with the conditions of a licence granted as provided by those rules, the manufacture,possession, use, sale. [transport, import and export] of, or any specified class of explosives.\n(2) Rules under this section may provide for all or any of the following, among other matters, that is to say: —\n\t(a) the authority by which licenses may be granted; \n\t (b) the fees to be charged for licenses, and the other sums (if any) to be paid for expenses by applicants for licenses:\n(c) the manner in which applications for licenses must be made, and the matters to be specified in such applications: \n\t(d) the form in which, and the conditions on and subject to which, licenses must be granted;\n\t(e) the period for which licenses are to remain in force;\n\t[(ee) the authority to which appeals may be preferred under section 6F, the procedure to be followed by such authority and the period within which appeals shall be preferred, the fees to be paid in respect of such appeals and the circumstances under which such fees may be refunded:\n\t(eea) The total quantity of explosives that a licensee can purchase in a given period of time;\n\t(eeb) the fees to be charged by the Chief Controller of Explosives or any officer authorized by him on this behalf, for services rendered in connection with the manufacture, transport, import or export of explosives;]\n(f) the exemption absolutely or subject to conditions of any explosives 1[or any person or class of persons] from the operation of the rules.”",
+                "The Central Government can make rules for licensing the manufacture, possession, use, sale, transport, import, and export of explosives. These rules may regulate or prohibit the manufacture, possession, use, sale, transport, import, or export of explosives, or any specified class of explosives.", "Explosives can only be possessed under and in accordance with the conditions of a license granted as provided by the rules.", "Applications for licenses must be made in a specific manner and must specify certain matters. The licenses must be granted in a specific form and subject to certain conditions. The fees and expenses associated with obtaining a license will also be specified.",
+                "The rules under this section may provide for the regulation or prohibition of the import and export of explosives, subject to the specified conditions.", 
+                "Fees will be charged for licenses and other services such as manufacturing, transport, import, or export of explosives. Appeals can also be made under certain circumstances.",
+                "Violating the rules for explosives can result in penalties and legal action.",
+                "There may be exemptions for certain explosives or persons from the operation of the rules." 
+            ],
+            "context": "The regulation and licensing of explosives in India."
+        },
+        {
+            "tag": "Act_5A_of_1884_explosives_business",
+            "patterns": [
+                "act 5a of 1884",
+                "what is the act 5A of 1884",
+                "Who is allowed to carry on the business of certain explosives without a license?", 
+                "What is the period for which a person can continue to carry on such business without a license?", "What happens if a person makes an application for a license under this Act?",
+                "What is the Indian Explosives (Amendment) Act, 1978?",
+                "What is the rule regarding the business of manufacture, sale, transport, import or export of explosives?", 
+                "What happens after the expiry of the three-month period under this Act?", 
+                "What is the provision for existing explosive businesses under the Indian Explosives Act",
+                "Can you explain the Indian Explosives Act's provision for businesses existing before 1978",
+                "Tell me about the licensing requirements for explosive businesses in India.",
+                "How does the Indian Explosives Act apply to businesses dealing with explosives",
+                "What changes did the Indian Explosives (Amendment) Act, 1978 bring for existing explosive businesses",
+                "Is there a grace period for businesses dealing with explosives under the Indian Explosives Act",
+                "What happens if an explosive business applies for a license under the Indian Explosives Act"
+            ],
+            "responses": [
+                "Act 5A, Explosive Act,1884\nPersons already in business in respect of certain explosives to carry on such business without licence for a certain period.—Notwithstanding anything in section 5 or in the rules made thereunder where, immediately before the commencement of the Indian Explosives (Amendment) Act, 1978 (32 of 1978), any person was carrying on the business of manufacture, sale, transport, import or export of any explosive (for which no licence was required under this Act before its amendment by the Indian Explosives (Amendment) Act, 1978, then, such person shall be entitled to continue to carry on such business without licence in respect of such explosive—\n(a) for a period of three months from the date of such commencement; or\n(b) if before the expiry of the said period of three months, such person has made an application for grant of licence under this Act for such business in such explosive, until the final disposal of his application, whichever is later.]",
+                "Under the Indian Explosives (Amendment) Act, 1978, businesses dealing with certain explosives were allowed to continue without a license for a specific period.",
+                "The Indian Explosives (Amendment) Act, 1978, granted a grace period to existing explosive businesses to operate without a license for a limited time.",
+                "Before the 1978 amendment, some explosive businesses didn't require a license to operate. This provision allowed them to continue without a license for a defined period.",
+                "The Indian Explosives Act's provisions were modified in 1978 to accommodate businesses already involved in the manufacture, sale, transport, import, or export of specific explosives.",
+                "Existing explosive businesses, as of the Indian Explosives (Amendment) Act, 1978, were given a grace period of three months to continue operations without a license or until their license application was processed, whichever was later.",
+                "This provision was introduced to provide a transition period for businesses in the explosives industry to comply with the amended regulations.",
+                "If an explosive business applied for a license under the Indian Explosives Act during the grace period, they could continue operating until the final decision on their application."
+            ],
+            "context": "This section discusses the provisions of the Indian Explosives (Amendment) Act, 1978, which allowed existing businesses dealing with certain explosives to continue their operations without a license for a specified period. It aimed to provide a transition period for compliance with the amended regulations."
+        },
+        {
+            "tag": "Act_6_of_1884_explosives_regulation",
+            "patterns": [
+                "what is act 6 of 1884",
+                "act 6 of 1884",
+                "special explosives",
+                "special explosives regulation",
+                "What authority does the Central Government have regarding dangerous explosives?",
+                "Can you explain the Central Government's power to regulate dangerous explosives?",
+                "Tell me about the Central Government's role in controlling dangerous explosives.",
+                "How does the Central Government ensure public safety regarding dangerous explosives?",
+                "What is the significance of the Customs Act in relation to dangerous explosives?",
+                "Explain the relationship between the Central Government's notifications and explosives regulation."
+            ],
+            "responses": [
+                "The Central Government has the authority to prohibit, either absolutely or subject to conditions, the manufacture, possession, or importation of highly dangerous explosives if it deems such action expedient for public safety.",
+                "The Central Government can issue notifications in the Official Gazette to regulate the manufacture, possession, or importation of extremely dangerous explosives based on public safety concerns.",
+                "In matters related to dangerous explosives, the Central Government plays a crucial role in ensuring public safety by issuing notifications and imposing restrictions as needed.",
+                "The Central Government's power to regulate dangerous explosives is primarily driven by the objective of safeguarding public safety and minimizing risks associated with these materials.",
+                "The Customs Act, 1962 (52 of 1962), is applicable to explosives with regard to their importation, similar to its regulation of other prohibited or regulated items.",
+                "Notifications issued by the Central Government under this section trigger the application of the Customs Act to explosives, treating them similarly to other regulated articles with respect to importation."
+            ],
+            "context": "This section discusses the authority of the Central Government to regulate the manufacture, possession, and importation of exceptionally dangerous explosives. It outlines the process of issuing notifications in the Official Gazette and the significance of the Customs Act in relation to explosives regulation."
+        },
+        {
+            "tag": "Act_6A_of_1884_explosives_prohibition",
+            "patterns": [
+                "explosive prohibitions act",
+                "act 6a of 1884",
+                "prohibitions on the explosives",
+                "what are the prohibitions on the explosives",
+                "who can use explosives",
+                "Can you explain the restrictions on the manufacture, sale, and transport of explosives in the Explosives Act?",
+                "What are the conditions for prohibiting individuals from dealing with explosives?",
+                "Tell me about the age and legal history criteria for handling explosives under the Explosives Act.",
+                "What happens if someone's license to deal with explosives is canceled?",
+                "How does the Central Government specify the types of explosives that individuals cannot possess?",
+                "What are the restrictions on selling explosives to certain individuals?",
+                "Explain the provisions regarding people of unsound mind and explosives in the Explosives Act."
+            ],
+            "responses": [
+                "The Explosives Act prohibits certain individuals from manufacturing, selling, transporting, importing, exporting, or possessing explosives. These restrictions are based on age, criminal history, bond obligations, and license status.",
+                "Under the Explosives Act, individuals under the age of eighteen, those with a history of violence or moral turpitude, individuals under bond obligations, and those with canceled licenses cannot deal with explosives for specific periods.",
+                "The Explosives Act imposes restrictions on individuals based on age, criminal history, bond obligations, and license status, with a focus on public safety.",
+                "If someone's license under the Explosives Act is canceled due to violations, they are prohibited from dealing with explosives for a period of five years from the date of cancellation.",
+                "The Central Government can specify the types of explosives that individuals cannot possess through notifications published in the Official Gazette, considering the nature of the explosives.",
+                "The Explosives Act prohibits selling, delivering, or dispatching explosives to individuals who are prohibited from manufacturing, selling, transporting, importing, exporting, or possessing explosives or those who are of unsound mind.",
+                "The Explosives Act also includes provisions to prevent the sale of explosives to individuals who may pose a risk due to mental health issues."
+            ],
+            "context": "This section discusses the provisions of the Explosives Act that restrict the manufacture, sale, transport, possession, importation, and exportation of explosives by certain individuals, including those under specific age limits, with criminal histories, bond obligations, or canceled licenses. It also addresses the restrictions on selling explosives to certain individuals."
+        },
+        {
+            "tag": "act_6b_of_1884_license_grant",
+            "patterns": [
+                "act 6b of 1884",
+                "act 6b of explosives act",
+                "act relating the Grant of Licences",
+                "how to get a license of the explosives",
+                "How are licenses granted under section 5 of the Explosives Act?",
+                "What is the role of the licensing authority in granting licenses for explosives?",
+                "Can you explain the process of obtaining a license for manufacturing explosives?",
+                "Under what circumstances will a license for manufacturing explosives be granted?",
+                "What criteria are considered for granting a license for purposes other than manufacturing explosives?",
+                "Tell me about the licensing authority's requirements for technical know-how and experience in manufacturing explosives.",
+                "What reasons are considered valid for obtaining a license for purposes other than manufacturing explosives?"
+            ],
+            "responses": [
+                "Under section 5 of the Explosives Act, licenses can be granted by the licensing authority upon application. They may either grant the license or refuse it after conducting necessary inquiries.",
+                "The licensing authority, as defined in the rules, is responsible for granting licenses for explosives. They assess applications and make a decision based on the provisions of the Explosives Act.",
+                "To obtain a license for manufacturing explosives, the applicant must meet specific criteria and go through the application process defined in the Explosives Act.",
+                "A license for manufacturing explosives is typically granted if the licensing authority is satisfied that the applicant possesses technical know-how and experience in explosives manufacturing or employs individuals with such expertise.",
+                "For purposes other than manufacturing explosives, a license may be granted if the licensing authority believes that the applicant has a valid reason for obtaining it.",
+                "In the case of manufacturing explosives, the licensing authority looks for technical expertise in the applicant or their employees. This expertise is crucial for ensuring safe production.",
+                "When applying for a license for purposes other than manufacturing explosives, the applicant needs to provide a convincing rationale for why they require the license, and the licensing authority assesses the validity of their reasons."
+            ],
+            "context": "This section discusses the process of granting licenses under section 5 of the Explosives Act. It outlines the role of the licensing authority and the criteria for obtaining a license, whether for manufacturing explosives or other purposes."
+        },
+        {
+            "tag": "act_6c_license_refusal",
+            "patterns": [
+                "act 6c of explosives act",
+                "when a license is refused",
+                "when a license is cancelled",
+                "why a license for explosives is cancelled",
+                "What are the grounds for refusing a license under the Explosives Act?",
+                "Can you explain the circumstances in which a license for explosives can be denied?",
+                "What reasons may lead to the refusal of a license for prohibited explosives?",
+                "Why would the licensing authority refuse a license based on a person's legal status?",
+                "Under what conditions can a license be denied for reasons related to public safety?",
+                "When does the licensing authority provide a brief statement for refusal of a license?",
+                "What factors determine whether the reasons for refusal are furnished to the applicant?"
+            ],
+            "responses": [
+                "The Explosives Act allows the licensing authority to refuse a license in specific situations. These include when the license is needed for prohibited explosives, when the applicant is legally prohibited from handling explosives, when they are of unsound mind, or for public safety reasons.",
+                "Licenses for explosives can be denied based on several grounds as outlined in the Explosives Act, including the nature of the explosive, the applicant's legal status, mental health, and public safety considerations.",
+                "Refusal of a license can occur if the license is required for prohibited explosives, or if the applicant is legally prohibited, mentally unfit, or poses a risk to public safety.",
+                "The licensing authority can refuse a license if the applicant is prohibited by law from handling explosives, is of unsound mind, or is deemed unfit for a license under the Explosives Act.",
+                "Public safety concerns can also lead to the refusal of a license, as the licensing authority may consider it necessary to protect the public peace or safety.",
+                "When the licensing authority refuses to grant a license, they must provide written reasons for the refusal. These reasons are furnished to the applicant upon request, except when it is not in the public interest to do so.",
+                "Whether the reasons for refusal are furnished to the applicant depends on the licensing authority's opinion of whether it serves the public interest to provide such a statement."
+            ],
+            "context": "This section discusses the grounds and circumstances under which the licensing authority can refuse to grant a license under the Explosives Act. It also covers the provision of written reasons for refusal and the discretion to withhold such reasons in specific cases."
+        },
+        {
+            "tag": "act_6d_license_conditions",
+            "patterns": [
+                "act 6d of explosives act",
+                "can there be more conditions on license for explosives",
+                "can license authority impose more conditions on the license",
+                "give some exaxmples of additional conditions imposed  on the licence",
+                "What are the conditions that can be imposed on a license under section 6B of the Explosives Act",
+                "Can you explain the authority of the licensing authority to impose additional conditions on licenses",
+                "Tell me about the conditions that may be added to a license granted under section 6B.",
+                "Under what circumstances can the licensing authority impose extra conditions on a license",
+                "How are additional conditions determined for a license under the Explosives Act",
+                "What is the role of the licensing authority in setting conditions for licenses",
+                "Can you provide examples of additional conditions that can be imposed on licenses"
+            ],
+            "responses": [
+                "A license granted under section 6B of the Explosives Act may include not only the prescribed conditions but also any other conditions deemed necessary by the licensing authority in a particular case.",
+                "The licensing authority has the power to add extra conditions to a license granted under section 6B of the Explosives Act as required by the specific circumstances of the case.",
+                "Licenses issued under section 6B can have additional conditions beyond the prescribed ones, based on the discretion of the licensing authority and the unique requirements of each case.",
+                "Additional conditions can be imposed on a license when the licensing authority determines that such conditions are necessary to ensure safety, compliance, or other specific considerations.",
+                "The licensing authority plays a pivotal role in determining and imposing additional conditions on licenses, tailoring them to address the specific needs of each case.",
+                "Examples of additional conditions that may be imposed on licenses include safety measures, reporting requirements, and compliance with relevant regulations.",
+                "Additional conditions on licenses are typically established to address specific safety, security, or compliance concerns related to the handling of explosives."
+            ],
+            "context": "This section discusses the authority of the licensing authority to impose additional conditions on licenses granted under section 6B of the Explosives Act. It highlights that these conditions can go beyond the prescribed ones and are tailored to meet the unique requirements of individual cases."
+        },
+        {
+            "tag": "act_6e_license_variation",
+            "patterns": [
+                "what is act 6e of explosive act",
+                "act 6e of explosive act",
+                "can the licensing authority vary the conditions of a license",
+                "why the licensing authority vary the conditions of a license",
+                "can licensing authority revoke a license",
+                "can licensing authority suspend a license",
+                "reasons of suspension of license",
+                "what if a holder provides wrong information",
+                "what happens if a holder provides wrong information",
+                "What are the circumstances in which the licensing authority can vary the conditions of a license?",
+                "How can the holder of a license request a variation of its conditions?",
+                "Under what conditions can a license be suspended or revoked by the licensing authority?",
+                "What are the reasons for the licensing authority to suspend or revoke a license?",
+                "Can a license be revoked if it was obtained with incorrect information?",
+                "What happens if the conditions of a license are contravened?",
+                "What is the procedure for surrendering a license after suspension or revocation?"
+            ],
+            "responses": [
+                "The licensing authority can vary the conditions of a license, except those that are prescribed, under certain circumstances. They can also require the holder of the license to deliver it if necessary.",
+                "The holder of a license can apply to the licensing authority to request a variation of the license conditions, except those that are prescribed.",
+                "The licensing authority has the power to suspend or revoke a license for various reasons, including legal prohibitions, public safety, suppression of material information, contravention of conditions, or failure to comply with notices.",
+                "A license may be suspended or revoked if the holder is prohibited by law from handling explosives, is of unsound mind, is unfit for a license, or if there are concerns related to public peace or safety.",
+                "A license can be revoked if it was obtained based on incorrect or suppressed information provided during the application process.",
+                "If the conditions of a license are contravened, it may lead to suspension or revocation of the license.",
+                "After the suspension or revocation of a license, the holder is required to surrender it without delay to the relevant authority as specified in the order."
+            ],
+            "context": "This section discusses the powers of the licensing authority to vary, suspend, or revoke licenses under the Explosives Act. It outlines the circumstances, reasons, and procedures for such actions, as well as the role of the holder of the license in requesting variations."
+        },
+        {
+            "tag": "act_6f_appeals_processes",
+            "patterns":[
+                "act 6f of explosive act",
+                "what is act 6f of explosive act",
+                "What can I do if the licensing authority refuses to grant me a license?",
+                "Is it possible to appeal against an order suspending or revoking a license?",
+                "Can I appeal against an order varying the conditions of my license?", 
+                "What is the appellate authority?", 
+                "How is the prescribed period for filing an appeal calculated?",
+                "Is there a time limit for filing an appeal?", 
+                "What is the time limit for filing an appeal against a licensing authority's order?",
+                "What is the fee for filing an appeal?", 
+                "What procedure does the appellate authority follow in disposing of an appeal?",
+                "What is the process for appealing an order issued by the licensing authority?",
+                "Who can file an appeal against a licensing authority's order, and where should it be filed?",
+                "Under what circumstances can an appeal be admitted after the prescribed time limit?",
+                "What are the requirements for submitting an appeal, including fees?",
+                "What procedural steps are followed by the appellate authority in handling appeals?"
+            ],
+            "responses": [
+                "Any person who is dissatisfied with an order of the licensing authority regarding a license (including refusal, variation, suspension, or revocation) can appeal to the appellate authority within the prescribed period.",
+                "Appeals against licensing authority orders are filed with the appellate authority. However, no appeal can be filed against orders made by or under the direction of the Central Government.",
+                "An appeal must be filed within the period prescribed for it. Late appeals may be admitted if the appellant can show sufficient cause for the delay.",
+                "The time limit for filing an appeal is determined based on the provisions of the Limitation Act, 1963, concerning the computation of periods of limitation.",
+                "An appeal should be submitted in writing as a petition and must be accompanied by a brief statement of the reasons for appealing and the prescribed fee.",
+                "The appellate authority follows prescribed procedures in handling appeals, ensuring that the appellant has a reasonable opportunity to be heard before making a decision.",
+                "Unless the appellate authority directs otherwise, the order being appealed against remains in force during the appeal process, and the final decision of the appellate authority is binding."
+            ],
+            "context": "This section explains the process of appealing an order issued by the licensing authority under the Explosives Act. It covers who can file an appeal, time limits, requirements for appeals, procedural steps, and the authority of the appellate body."
+        },
+        {
+            "tag": "act_7_inspection_powers",
+            "patterns": [
+                "act 7 of explosive act",
+                "what is act 7 of explosive act",
+                "who can inspect explosives",
+                "Can an officer take samples of any explosive found in a place",
+                "What are the powers conferred by the Central Government for inspection, search, seizure, and removal under this Act",
+                "Can you explain the authority granted to officers for inspecting and searching places, vehicles, and vessels where explosives are involved?",
+                "Under what circumstances can an officer enter and inspect a place where explosives are being handled?",
+                "What are the provisions for searching and seizing explosives under this Act?",
+                "How does the value of seized explosives or samples taken get determined?",
+                "Is there a provision for the destruction of seized explosives or their ingredients?",
+                "How are the provisions of the Code of Criminal Procedure, 1973 applied to searches under this Act?"
+            ],
+            "responses": [
+                "The Central Government, in accordance with this Act, can make rules authorizing officers to perform various actions related to explosives. These include entering and inspecting places, searching for explosives, taking samples, and seizing, detaining, and removing explosives if necessary, including their destruction.",
+                "Officers are granted the authority to enter, inspect, and examine places, aircraft, carriages, or vessels where explosives are involved. This applies to situations where explosives are being handled under a license, or where there is reasonable belief of contravention of the Act or its rules.",
+                "An officer can enter, inspect, and examine places where explosives are being handled or are suspected to be involved in contravention of the Act. This includes places of manufacture, possession, sale, transportation, import, or export of explosives.",
+                "Officers are empowered to search for explosives in the mentioned places. They can also take samples of explosives found, with the requirement to pay the value of the samples taken.",
+                "The value of seized explosives or samples taken is determined based on their actual worth.",
+                "There is provision for the seizure, detention, and removal of explosives or their ingredients found in the mentioned places. If necessary, these explosives or ingredients can be destroyed.",
+                "The provisions of the Code of Criminal Procedure, 1973 related to searches are applicable to searches conducted by officers authorized under the rules made by the Central Government."
+            ],
+            "context": "This section outlines the powers conferred by the Central Government for inspection, search, seizure, detention, and removal of explosives under the Explosives Act. It covers the authority of officers, the actions they can take, and the application of relevant legal provisions."
+        },
+        {
+            "tag": "act_8_accident_notice",
+            "patterns": [
+                "act 8 of explosive act",
+                "what is the act 8 of explosive act",
+                "what is the act 8 of explosive act",
+                "what to do in case of a explosion",
+                "Who is responsible for giving notice in case of an accident involving explosives?",
+                "Is there a protocol for reporting accidents involving explosives?",
+                "What are the requirements for reporting accidents involving explosives under the Explosives Act?",
+                "When should the occupier of a place, or the master of an aircraft or vessel, report an accident involving explosives?",
+                "What types of accidents involving explosives need to be reported?",
+                "Who should receive the notice of such accidents?",
+                "What is the specified time frame and manner for giving notice of such accidents?",
+                "What is the role of the Chief Controller of Explosives and the nearest police station in receiving accident notices?",
+                "Are there any specific rules governing the reporting of accidents involving explosives?"
+            ],
+            "responses": [
+                "Under the Explosives Act, whenever an accident involving explosives occurs in or around a place where explosives are manufactured, possessed, or used, or in connection with aircraft, carriages, or vessels carrying explosives, it must be reported.",
+                "The occupier of the place, the master of the aircraft or vessel, or the person in charge of the carriage involved in the accident is responsible for reporting it.",
+                "Accidents involving explosives that result in loss of human life, serious injury to persons, or significant property damage must be reported.",
+                "The notice of such accidents should be given to the Chief Controller of Explosives and the officer in charge of the nearest police station.",
+                "The specific time frame and manner for giving notice of accidents involving explosives are prescribed by rules.",
+                "The Chief Controller of Explosives and the nearest police station play a role in receiving and managing accident notices, ensuring that appropriate actions are taken in response.",
+                "Yes, there are rules prescribed to govern the reporting of accidents involving explosives under the Explosives Act."
+            ],
+            "context": "This section discusses the legal requirements for reporting accidents involving explosives under the Explosives Act. It outlines who should report such accidents, the types of accidents to report, the responsible authorities, and the rules governing the reporting process."
+        },
+        {
+            "tag": "act_9_accident_inquiry",
+            "patterns": [
+                "act 9 of explosive act",
+                "what is the act 9 of explosive act",
+                "Who holds an inquiry into accidents?",
+                "What rules may the Central Government make?",
+                "How are notices referred to in section 8 given?",             "Under what circumstances are inquiries into accidents involving explosives held?",
+                "Who is responsible for conducting inquiries into accidents involving explosives?",
+                "What authority conducts inquiries when accidents occur in connection with the Armed Forces of the Union?",
+                "What role does the District Magistrate play in conducting inquiries?",
+                "What powers are granted to the person conducting an inquiry under this section?",
+                "What is the purpose of the report to be submitted to the Central Government?",
+                "Are there any rules governing the procedure for inquiries under this section?"
+            ],
+            "responses": [
+                "Inquiries into accidents involving explosives are held when such accidents occur in or around places, aircraft, carriages, or vessels. The responsible authority for conducting the inquiry depends on whether the accident is connected to the Armed Forces of the Union or occurs in other circumstances.",
+                "When accidents involving explosives occur in places, aircraft, carriages, or vessels under the control of the Armed Forces of the Union, the naval, military, or air force authority concerned conducts the inquiry. In other circumstances, the District Magistrate holds or directs a subordinate Magistrate to hold the inquiry.",
+                "In cases involving the Armed Forces of the Union, the respective armed forces authority conducts the inquiry into the causes of the accident.",
+                "The District Magistrate is responsible for conducting inquiries in cases attended by loss of human life, while in other cases, they may direct a subordinate Magistrate to conduct the inquiry.",
+                "The person conducting an inquiry under this section is granted the powers of a Magistrate under the Code of Criminal Procedure, 1973. They can also exercise powers conferred on any officer by rules under section 7 if deemed necessary for the inquiry.",
+                "The person conducting the inquiry must submit a report to the Central Government, detailing the causes and circumstances of the accident.",
+                "Yes, the Central Government has the authority to make rules to regulate the procedure for inquiries under this section, including the presence and examination of witnesses by the Chief Controller of Explosives, and the notification process mentioned in section 8."
+            ],
+            "context": "This section outlines the procedures and authorities responsible for conducting inquiries into accidents involving explosives under the Explosives Act. It covers the circumstances, powers of inquiry officers, and the role of the District Magistrate and Armed Forces authorities."
+        },
+        {
+            "tag": "act_9a_serious_accident_inquiry",
+            "patterns": [
+                "act 9a of explosive act",
+                "what is the act 9a of explosive act",
+                "When can the Central Government appoint a person to conduct an inquiry into an accident?", 
+                "What is the Central Government's role in conducting an inquiry into an accident?",
+                "Under what circumstances does the Central Government appoint an inquiry of a more formal character into serious accidents?",
+                "Who can be appointed by the Central Government to hold such inquiries?",
+                "What is the role of assessors in the inquiry process?",
+                "Can an inquiry under section 9 be discontinued if an inquiry under this section is ordered by the Central Government?",
+                "What powers does the person appointed to hold an inquiry under this section have?",
+                "What are the reporting requirements for inquiries conducted under this section?",
+                "Are there any rules governing the procedure for inquiries under this section?"
+            ],
+            "responses": [
+                "The Central Government, whether or not it has received a report from an inquiry under section 9, may decide that a more formal inquiry should be held into serious accidents described in section 8.",
+                "The Central Government can appoint the Chief Controller of Explosives or another qualified person to conduct the inquiry. Additionally, it can appoint individuals with legal or specialized knowledge to act as assessors in the inquiry.",
+                "Assessors play a role in the inquiry process by providing their expertise and observations along with the person conducting the inquiry.",
+                "Yes, if the Central Government orders an inquiry under this section, it can also direct the discontinuation of any inquiry under section 9 that may be ongoing at the time.",
+                "The person appointed to conduct the inquiry has powers similar to those of a Civil Court under the Code of Civil Procedure, 1908, for compelling witness attendance and document production. Anyone required to provide information is legally bound to do so.",
+                "The person conducting the inquiry must submit a report to the Central Government detailing the causes and circumstances of the accident, along with any relevant observations from themselves or the assessors. The Central Government is then responsible for publishing these reports.",
+                "Yes, the Central Government can make rules to regulate the procedure followed during inquiries conducted under this section."
+            ],
+            "context": "This section outlines the procedures and authorities responsible for conducting inquiries of a more formal character into serious accidents involving explosives under the Explosives Act. It covers the appointment process, powers of the inquiry officer, role of assessors, reporting requirements, and potential rule-making by the Central Government."
+        },
+        {
+            "tag": "act_9b_punishment_for_offenses",
+            "patterns": [
+                "act 9b of explosive act",
+                "what is act 9b of explosive act",
+                "What is the punishment for manufacturing explosives?", 
+                "What are the penalties for contravening the rules made under section 5 or the conditions of a license?",
+                "What is the punishment for manufacturing, importing, or exporting explosives in violation of the rules or license conditions?",
+                "What are the consequences of possessing, using, selling, or transporting explosives in contravention of the rules or license conditions?",
+                "How does the punishment vary for different offenses related to explosives?",
+                "What is the punishment for failing to give notice of an accident under section 8?",
+                "What are the consequences of manufacturing, selling, or possessing explosives in contravention of clause (a) of section 6A?",
+                "What penalties apply for contravening a notification issued under section 6?",
+                "Who is liable for punishment in case of importing explosives by water or air in violation of a notification under section 6?",
+                "What are the penalties for offenses related to failing to give notice of an accident under section 8?"
+            ],
+            "responses": [
+                "The penalties for contravening the rules made under section 5 or the conditions of a license are as follows:\n\t(a) Manufacturing, importing, or exporting any explosive in violation of the rules or license conditions can lead to imprisonment for up to three years, a fine of up to five thousand rupees, or both.\n\t(b) Possessing, using, selling, or transporting any explosive in contravention of the rules or license conditions can result in imprisonment for up to two years, a fine of up to three thousand rupees, or both.\n\tc) In other cases of contravention, a fine of up to one thousand rupees may be imposed.\n(2) Contravening a notification issued under section 6, which involves manufacturing, possessing, or importing explosives, can lead to imprisonment for up to three years, a fine of up to five thousand rupees, or both. In the case of importation by water or air, the owner and master of the vessel or aircraft may each face a fine of up to five thousand rupees unless they can provide a reasonable excuse\n(3) Various penalties apply for different offenses:\n\ta) For manufacturing, selling, transporting, importing, exporting, or possessing explosives in contravention of the provisions of clause (a) of section 6A, imprisonment for up to three years, a fine, or both can be imposed\n\tb) Selling, delivering, or despatching explosives in contravention of the provisions of clause (b) of section 6A can lead to imprisonment for up to three years, a fine, or both.\nc) Failing to give notice of any accident in contravention of the provisions of section 8 can result in a fine of up to five hundred rupees. If the accident leads to loss of human life, imprisonment for up to three months, a fine, or both may be imposed."
+            ],
+            "context": "This section outlines the penalties and consequences for various offenses related to explosives under the Explosives Act. It covers contraventions of rules, license conditions, notifications, and provisions related to accidents."
+        },
+        {
+            "tag": "company",
+            "patterns": [
+                "what is a company",
+                "company",
+                "what is an association of individuals called",
+                "what is a corporate",
+                "corporate"
+            ],
+            "responses": [
+                "\"company\" means anybody corporate, and includes a firm or association of individuals"
+            ],
+            "context": "definitions"
+        },
+        {
+            "tag": "director",
+            "patterns": [
+                "what is a director",
+                "director",
+                "what is it called when a person is a partner of a farm"
+            ],
+            "responses": [
+                "\"director\", in relation to a firm, Means a partner in the firm"
+            ],
+            "context": "definitions"
+        },
+        {
+            "tag": "act_10_forfeiture_of_explosives",
+            "patterns": [
+                "act 10 of explosive act",
+                "what is act 10 of explosive act",
+                "what if happens if someone in convicted to an offense",
+                "what substances can be forfeited due to an offense",
+                "Under what circumstances can the court direct the forfeiture of explosives or related substances?",
+                "What happens to the containers of forfeited substances?",
+                "What conditions must be met for the court to order the forfeiture of explosives or their ingredients?",
+                "Can the court order forfeiture of explosive ingredients?", 
+                "Who has the authority to order the forfeiture of explosives under this Act?",
+                "Can the forfeiture include both the explosive and its containers?",
+                "Is forfeiture applicable only for specific types of offences under this Act?",
+                "What is the purpose of forfeiting explosives or related substances?",
+                "Are there any exceptions or situations where forfeiture may not be ordered?"
+            ],
+            "responses": [
+                "“Act 10, Explosive Act, 1884\n. Forfeiture of explosives. — When a person is convicted of an offence punishable under this Act, or the rules made under this Act, the court before which he is convicted may direct that the explosive, or ingredient of the explosive, or the substance (if any) in respect of which the offence has been committed, or any part of that explosive, ingredient or substance, shall, with the receptacles containing the same, be forfeited.”",
+                "The court can direct the forfeiture of explosives, their ingredients, or related substances when a person is convicted of an offense punishable under this Act or the rules made under this Act.",
+                "For the court to order the forfeiture of explosives or related substances, the person must be convicted of an offense under this Act or its rules.",
+                "The court before which the person is convicted has the authority to order the forfeiture.",
+                "Yes, the court may direct the forfeiture of not only the explosive or its ingredient but also the receptacles containing them.",
+                "The forfeiture of explosives is applicable for offenses punishable under this Act or its rules, meaning it is not specific to particular types of offenses.",
+                "The purpose of forfeiting explosives or related substances is to penalize the offender and prevent further misuse or illegal activities involving these materials.",
+                "There may be exceptional situations or cases where the court decides not to order forfeiture, but the general principle is to order forfeiture upon conviction."
+            ],
+            "context": "This section outlines the conditions and circumstances under which the court can order the forfeiture of explosives, their ingredients, or related substances in cases of convictions under the Explosives Act. It serves as a punitive measure and a means to prevent further misuse."
+        },
+        {
+            "tag": "act_11_distress_of_aircraft_or_vessel",
+            "patterns": [
+                "act 11 of explosive act, 1884",
+                "what is act 12 of explosive act, 1884",
+                "distress of aircraft or vessel",
+                "What happens if the owner or master of an aircraft or vessel is fined?",
+                "Under what circumstances can the court direct the distress and sale of an aircraft or vessel?",
+                "Can a court order the distress and sale of an aircraft or vessel to pay a fine?",
+                "What is the purpose of levying fines through distress and sale of aircraft or vessels?",
+                "Who has the authority to adjudicate fines related to aircraft or vessels under this Act?",
+                "Is it possible to sell a portion of the furniture or tackle of an aircraft or vessel to pay a fine?",
+                "Are there any limitations on the amount of furniture or tackle that can be sold to pay a fine?",
+                "Can the distress and sale include both the aircraft or vessel and its associated items or furnishings?",
+                "Is distress and sale applicable only for specific types of offences under this Act?",
+                "How does the court determine the amount of fine to be levied through distress and sale?",
+                "Are there any exceptions or situations where distress and sale may not be ordered?"
+            ],
+            "responses": [
+                "“Act 11, Explosive Act,1884\nDistress of aircraft or vessel. — Where the owner or Master of any aircraft or vessel is adjudged under this Act to pay a fine for any offence committed with, or in relation to, that aircraft or vessel, The Court may, in addition to any power it may have for the purpose of compelling payment of the fine, direct it to be levied by distress and sale of, —\n(a) the aircraft and its furniture or so much of the furniture, or\n(b) the vessel and the tackle, apparel and furniture of such vessel or so much of the tackle, apparel and furniture thereof as is necessary for the payment of the fine.]”,",
+                "The court can direct the distress and sale of an aircraft or vessel when the owner or master of the aircraft or vessel is adjudged under this Act to pay a fine for any offence committed with or in relation to that aircraft or vessel.",
+                "The purpose of levying fines through distress and sale of aircraft or vessels is to ensure the payment of fines related to offences involving these vehicles and to compel compliance with legal obligations.",
+                "The authority to adjudicate fines related to aircraft or vessels under this Act lies with the court before which the case is being heard.",
+                "Yes, the distress and sale can include not only the aircraft or vessel but also its associated items, furnishings, tackle, apparel, and furniture if necessary to cover the fine.",
+                "Distress and sale are applicable for fines related to offences committed with or in relation to aircraft or vessels, and it is not specific to particular types of offences.",
+                "The court typically determines the amount of the fine based on the nature and severity of the offence, as well as any applicable legal provisions.",
+                "While distress and sale are a common means of recovering fines, there may be exceptional situations or cases where the court decides not to order distress and sale."
+            ],
+            "context": "This section outlines the circumstances and procedures under which the court can direct the distress and sale of an aircraft or vessel to recover fines related to offences committed with or in relation to these vehicles under the Explosives Act. It serves as a means to enforce compliance with legal obligations and penalize offenders."
+        },
+        { 
+            "tag": "act_12_abetment_and_attempts", 
+            "patterns": [ 
+                "act 12 explosive act, 1884",
+                "what is act 12 explosive act, 1884",
+                "abetment and attempts",
+                "What does the Explosive Act, 1884, say about abetment and attempts?",
+                "Can you explain the concept of abetment",
+                "Can you explain the concept of abetment as per the Indian Penal Code?",
+                "What is abetment according to the Indian Penal Code?",
+                "What is the punishment for abetting a crime under this Act?",
+                "What does the Indian Penal Code say about attempts to commit an offence under this Act?",
+                "Can someone be punished for attempting to commit an offence under this Act?",
+                "What is the meaning of abetment as per the Indian Penal Code?",
+                "What is the punishment for attempting to commit a crime under Explosive Act,1884?",
+                "In what cases can someone be punished for abetment?" 
+            ], 
+            "responses": [
+                "“Act 12, Explosive Act, 1884.\nAbetment and attempts. — Whoever abets, within the meaning of the Indian Penal Code (45 of 1860), the commission of an offence punishable under this Act, or the rules made under this Act, or attempts to commit any such offence and in such attempt does any act towards the commission of the same, shall be punished as if he had committed the offence.”",
+                "Whoever abets, within the meaning of the Indian Penal Code (45 of 1860), the commission of an offence punishable under this Act, or the rules made under this Act, or attempts to commit any such offence and in such attempt does any act towards the commission of the same, shall be punished as if he had committed the offence.",
+                "The Explosive Act, 1884, stipulates that anyone who abets the commission of an offence punishable under this Act or attempts to commit such an offence is punished as if they had committed the offence.",
+                "Abetment and attempts to commit offences under the Explosive Act are treated as if the person had committed the actual offence, and they are subject to the same punishment.",
+                "In the context of the Indian Penal Code, abetment refers to assisting, encouraging, or facilitating the commission of a crime by another person.",
+                 "If an individual attempts to commit an offence under the Explosive Act and takes any action toward its commission, they will be penalized as if they had completed the offence.",
+                "Yes, there are provisions in this Act that address abetment and attempts, treating them with the same severity as the actual   offence.",
+                "Those who aid someone in committing an offence under this Act can also be subject to punishment, as per the provisions of the Act.",
+                "The Explosive Act, 1884, ensures that abetment and attempts to commit offences are punishable to the same extent as the completed offence."
+            ], 
+            "context": "This JSON provides information about abetment and attempts as per the Indian Penal Code and the punishment for committing such offences under this Act."
+        },
+        {
+            "tag": "act_13_arrest_without_warrant",
+            "patterns": [
+                "act 13 of the explosive act,1884",
+                "arrest without warrant",
+                "what is the act 13 of the explosive act,1884",
+                "Power to arrest without warrant persons committing dangerous offences",
+                "Power to arrest without warrant",
+                "Under what circumstances can a person be arrested without a warrant",
+                "When can police apprehend someone without a warrant?",
+                "Who has the authority to apprehend individuals without a warrant for dangerous offences?",
+                "Is it legal to arrest someone without a warrant?",
+                "What actions or acts fall under the category of punishable?",
+                "Can the occupier of a place authorize the arrest of a person committing a dangerous offence on their premises?",
+                "What should be done after apprehending a person without a warrant for a dangerous offence?",
+                "What is the process of arresting someone without a warrant?", "Who has the authority to apprehend someone without a warrant?",
+                "Are there any specific locations mentioned where a person can be arrested without a warrant?",
+                "Is there a requirement for immediate removal and conveyance of the arrested person?"
+            ],
+            "responses": [
+                "“Act 13, Explosive Act, 1884\n Power to arrest without warrant persons committing dangerous offences.\n — Whoever is found committing any act for which he is punishable under this Act or the rules under this Act, and which tends to cause an explosion or fire in or about any place where an explosive is manufactured or stored, or any railway or port, or any carriage, [aircraft or vessel], may be apprehended without a warrant by a Police-officer, or by the occupier of, or the agent or servant of, or other person authorized by the occupier of, that place, or by any agent or servant of, or other person authorized by, the railway administration or 3[conservator of the port or officer in charge of the airport], and be removed from the place where he is arrested and conveyed as soon as conveniently may be before a Magistrate.”",
+                "A person can be arrested without a warrant under Act 13 of Explosive Act 1884, when they are found committing any act that is punishable under this Act or the rules under this Act, and the act tends to cause an explosion or fire in or around places where explosives are manufactured or stored, railways, ports, or any carriage, aircraft, or vessel.",
+                "Police officers, the occupier of the premises, agents, servants, or persons authorized by the occupier, railway administration, conservator of the port, or officer in charge of the airport have the authority to apprehend individuals without a warrant for dangerous offences.",
+                "Actions or acts that tend to cause an explosion or fire and are punishable under this Act fall under the category of 'punishable under this Act.'",
+                "Yes, the occupier of a place has the authority to authorize the arrest of a person committing a dangerous offence on their premises.",
+                "After apprehending a person without a warrant for a dangerous offence, they should be removed from the place of arrest and conveyed to a Magistrate as soon as conveniently possible.",
+                "The locations where a person can be arrested without a warrant include places where explosives are manufactured or stored, railways, ports, carriages, aircraft, and vessels, provided that the act tends to cause an explosion or fire.",
+                "Yes, there is a requirement for the immediate removal and conveyance of the arrested person to a Magistrate."
+            ],
+            "context": "This section outlines the circumstances and procedures under which a person can be arrested without a warrant for committing dangerous offences under the Explosives Act. It specifies the locations where such arrests can occur and the authorities authorized to make these arrests."
+        },
+        {
+            "tag": "act_14_exemption_and_saving",
+            "patterns": [
+                "exemption_and_saving",
+                "Saving and power to exempt",
+                "Act 14 of Explosive Act,1884",
+                "What is Act 14 of Explosive Act,1884",
+                "Which sections of Act 14 of Explosive Act,1884 do not apply to certain entities or activities?",
+                "Who is exempt from the provisions of act 14 of Explosive Act, except sections 8, 9, and 9A?",
+                "Under what circumstances can the Central Government exempt an explosive or a person from this Act's provisions?",
+                "What entities fall under the exemption from this Act's provisions?",
+                "Are there any conditions that may be imposed when exempting an explosive or a person from this Act?",
+                "Which sections of the Explosives Act do not apply to the Armed Forces?",
+                "Who can manufacture, possess, and transport explosives without being subject to the Explosives Act?",
+                "Under what circumstances can a person be exempt from the Explosives Act?",
+                "What are the rules for the manufacture and use of explosives by the Armed Forces?",
+                "Can employees of the Central or State Government be exempt from the Explosives Act?",
+                "What is the process for obtaining an exemption from the Explosives Act?",
+                "Is it possible for a particular explosive or person to be exempt from certain provisions of the Explosives Act?"
+            ],
+            "responses": [
+                "Act 14, Explosive Act,1884\n. Saving and power to exempt. — (1) Nothing in this Act, except sections 8,9 and 9A shall apply to the manufacture, possession, use, transport or importation of any explosive—\n(a) by any of the 5[Armed Forces of the Union, and ordnance factories or other establishments of such Forces) by rules or regulations made by the Central Government;\n(b) by any person employed under 7[the Central Government or under a State Government] in the execution of this Act.\n(2) The Central Government may by notification in the Official Gazette exempt, absolutely or subject to any such conditions as it may think fit to impose, 1[any explosive and any person or class of persons from all or any of the provisions of this Act or the rules made thereunder.",
+                "Sections 8, 9, and 9A are exceptions, and they apply to specific cases. Other sections of this Act do not apply to the manufacture, possession, use, transport, or importation of explosives by the Armed Forces of the Union, including ordnance factories or other establishments of such forces, and by persons employed under the Central Government or a State Government in the execution of this Act.",
+                "The Armed Forces of the Union, including ordnance factories and other establishments of such forces, and persons employed under the Central Government or a State Government in execution of this Act are exempt from the provisions of this Act, except sections 8, 9, and 9A.",
+                "The Central Government can, by notification in the Official Gazette, exempt explosives, persons, or classes of persons from all or any of the provisions of this Act or the rules made thereunder.",
+                "Entities exempt from this Act's provisions include the Armed Forces of the Union, including ordnance factories and other establishments of such forces, and persons employed under the Central Government or a State Government in the execution of this Act.",
+                "The Central Government may impose conditions when exempting an explosive or a person from this Act, as it deems fit.",
+                "Yes, the Armed Forces of the Union, including ordnance factories, can manufacture, possess, use, transport, or import explosives under this Act in accordance with rules or regulations made by the Central Government.",
+                "The Central Government has the authority to exempt any explosive, person, or class of persons from the provisions of this Act."
+            ],
+            "context": "This section outlines the saving provisions and the power of exemption under the Explosives Act. It specifies the entities and circumstances under which certain sections of the Act do not apply and grants the Central Government the authority to exempt explosives and individuals from the Act's provisions."
+        },
+        {
+            "tag": "act_15_Arms_Act_saving",
+            "patterns": [
+                "act 15 of the explosive act",
+                "what is act 15 of the explosive act",
+                "Arms act saving",
+                "Saving of Arms Act, 1959",
+                "Does any Act have any impact on the Arms Act, 1959?",
+                "Does any rule have any effect on the Arms Act, 1959?",
+                "What is the relationship between Act 15 and the Arms Act, 1959?",
+                "Does the Saving of Arms Act, 1959 have any exceptions?",
+                "Who can grant a license under the Arms Act, 1959?",
+                "What is the effect of an order written on a license under the Arms Act, 1959?",
+                "What is the relationship between the Saving of Arms Act, 1959 and the Arms Act, 1959?",
+                "How does the Saving of Arms Act, 1959 affect the provisions of the Arms Act, 1959?", 
+                "Can a license granted have the effect on the Arms Act, 1959?",
+                "Under what conditions can a license under this Act be equivalent to a license under the Arms Act, 1959?",
+                "Is there any provision for aligning licenses under this Act with the Arms Act, 1959?",
+                "What is the significance of the Arms Act, 1959 in relation to this Act?",
+                "Can the authority granting a license under this Act empower it to have the effect of a license under the Arms Act, 1959?"
+            ],
+            "responses": [
+                "Act 15, Explosive Act,1884\nSaving of Arms Act, 1959. —Nothing in this Act shall affect the provisions of the [Arms Act, 1959 (4 of 1959)]:\nProvided that an authority granting a license under this Act for the manufacture, possession, sale, transport or importation of an explosive may if empowered in this behalf by the rules under which the license is granted, direct by an order written on the license that it shall have the effect of a like license granted under the said Arms (4 of 1959) Act, 1959.",
+                "No,the Act 15 of Explosive Act,1884 does not affect the provisions of the Arms Act, 1959.",
+                "The provisions if Saving of Arms Act, 1959 do not impact the Arms Act, 1959.",
+                "Yes, a license granted under this Act for the manufacture, possession, sale, transport, or importation of an explosive may have the effect of a like license granted under the Arms Act, 1959, if empowered in this behalf by the rules under which the license is granted.",
+                "To have a license under this Act equivalent to a license under the Arms Act, 1959, the authority granting the license may need to be empowered by the relevant rules.",
+                "Yes, there is a provision that allows a license under this Act to be equivalent to a license under the Arms Act, 1959, under certain conditions specified in the rules.",
+                "The Arms Act, 1959 is significant in that it coexists with this Act, and licenses under this Act can be aligned with the provisions of the Arms Act, 1959.",
+                "Yes, the authority granting a license under this Act may be empowered to grant a license with the effect of a license under the Arms Act, 1959, as specified in the relevant rules."
+            ],
+            "context": "This section clarifies that the Explosives Act does not affect the provisions of the Arms Act, 1959. It also provides a mechanism by which a license under this Act can have the effect of a license under the Arms Act, 1959, if empowered by the applicable rules."
+        },
+        {
+            "tag": "act_16_Liability_under_other_laws",
+            "patterns": [
+                "act 16 of the explosive act",
+                "what is act 16 of the explosive act",
+                "Saving as to liability under other laws",
+                "Can someone be charged under other laws for the same offense?", 
+                "Will I face other penalties under different laws?",
+                "Can a person be subject to higher punishment or penalty under other laws for offences against this Act?",
+                "Are there any exceptions to the punishment?",
+                "What are the consequences of breaking other laws?", 
+                "Is there any protection from other laws?", 
+                "What happens if I violate other laws?", 
+                "Does this Act provide complete immunity from prosecution under other laws?",
+                "Is double punishment possible for the same offence?"
+            ],
+            "responses": [
+                "Act 16, Explosive Act, 1884\nSaving as to liability under other laws. — Nothing in this Act or the rules under this Act should prevent any person from being prosecuted under any other law for any act or omission which constitutes an offence against this Act or those rules, or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act or those rules:\nProvided that a person shall not be punished twice for the same offence.",
+                "No, nothing in Act 16 or the rules under this Act prevents any person from being prosecuted under any other law for an act or omission which constitutes an offence against this Act or those rules, or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act or those rules.",
+                "A person is not exempt from prosecution under other laws for offences against this Act. They may be liable under other laws to any other or higher punishment or penalty than that provided by this Act.",
+                "Yes, a person can be subject to higher punishment or penalty under other laws for offences against this Act.",
+                "This Act does not provide complete immunity from prosecution under other laws for offences against it.",
+                "If a person is found guilty under both this Act and another law for the same offence, they shall not be punished twice for the same offence.",
+                "Double punishment for the same offence under this Act and other laws is not permissible.",
+                "There is a prohibition on punishing a person twice for the same offence under both this Act and another law."
+            ],
+            "context": "This section clarifies that nothing in the Explosives Act or its rules prevents a person from being prosecuted under any other law for an act or omission that constitutes an offence against this Act or its rules. It also states that a person may be liable under other laws to a higher punishment or penalty than that provided by this Act, but they shall not be punished twice for the same offence."
+        },
+        {
+            "tag": "act_17_Extension_of_explosive_definition",
+            "patterns": [
+                "act 17 of the explosive act,1884",
+                "what is the act 17 of the explosive act",
+                "is there more to explosives",
+                "Extension of the definition of “explosive” to other explosive substances",
+                "Can substances other than those explicitly mentioned be considered explosives under this Act?",
+                "Who has the authority to declare a substance as explosive under this Act?",
+                "What criteria are considered for declaring a substance as explosive under this Act?",
+                "How can a substance be deemed as an explosive under this Act?",
+                "What are the implications of a substance being declared as explosive under this Act?",
+                "Is there a process for notifying substances as explosives under this Act?",
+                "Are there any exceptions or restrictions associated with substances declared as explosives?"
+            ],
+            "responses": [
+                "Act 17, Explosive Act, 1884,\nExtension of def inition of “explosive” to other explosive substances.—The Central Government may, from time to time, by notification in the Official Gazette, declare that any substance which appears to the Central Government to be specially dangerous to life or property, by reason either of its explosive properties or of any process in the manufacture thereof being liable to explosion, shall be deemed to be an explosive within the meaning of this Act; and the provisions of this Act (subject to such exceptions, limitations and restrictions as may be specified in the notification) shall accordingly extend to that substance in like manner as if it were included in the definition of the term “explosive” in this Act.",
+                "Yes, the Central Government has the authority to declare any substance, which appears to be specially dangerous to life or property due to its explosive properties or manufacturing process, as an explosive under this Act.",
+                "The Central Government considers factors such as the substance's explosive properties or its manufacturing process being liable to explosion when declaring it as an explosive under this Act.",
+                "To deem a substance as an explosive under this Act, the Central Government issues a notification in the Official Gazette, specifying the substance and any exceptions, limitations, or restrictions associated with it.",
+                "When a substance is declared as explosive under this Act, the provisions of this Act, subject to any exceptions, limitations, and restrictions specified in the notification, extend to that substance as if it were included in the definition of 'explosive' in this Act.",
+                "Substances declared as explosives under this Act are subject to the provisions of this Act, and they are treated as explosives for regulatory purposes.",
+                "Yes, there is a process where the Central Government can issue a notification in the Official Gazette to declare a substance as explosive.",
+                "The notification issued by the Central Government may specify exceptions, limitations, and restrictions for substances declared as explosives under this Act."
+            ],
+            "context": "This section empowers the Central Government to declare any substance, which is specially dangerous to life or property due to its explosive properties or manufacturing process, as an explosive under this Act. The Central Government can do so by issuing a notification in the Official Gazette. Once declared as an explosive, the substance is subject to the provisions of this Act, with any exceptions, limitations, or restrictions specified in the notification."
+        },
+        {
+            "tag": "act_17a_Delegation_of_Powers",
+            "patterns": [
+                "act 17a of explosive act",
+                "act 17a of explosive act of 1884",
+                "what is the act 17a of explosive act",
+                "what is Delegation of Powers",
+                "Power to delegate",
+                "What powers or functions can be delegated by the Central Government under this Act?",
+                "what powers can be delegated by the Central Government?",
+                "Who can exercise the delegated powers?",
+                "What is the process for delegation of powers?",
+                "Is the Central Government allowed to delegate its powers and functions?",
+                "Who can exercise or perform powers delegated by the Central Government under this Act?",
+                "Can State Government exercise the delegated powers?", 
+                "Which powers cannot be delegated by the Central Government?", 
+                "What is the process for delegating powers or functions under this Act?",
+                "Are there any specific powers that cannot be delegated under this Act?",
+                "Can State Governments exercise powers delegated by the Central Government?",
+                "Are there any conditions or limitations associated with the delegation of powers?"
+            ],
+            "responses": [
+                "Act 17A.Explosive Act,1884\nPower to delegate. — The Central Government may, by notification in the Official Gazette, direct that any power or function which may be exercised or performed by it under this Act other than the power under sections 5, 6, 6A, 14 and 17 may, in relation to such matters and subject to such conditions, if any, as it may specify in the notification, be exercised or performed also by—\n(a) such officer or authority subordinate to the Central Government, or\n(b) such State Government or such officer or authority subordinate to the State Government.",
+                "The Central Government can delegate any power or function it may exercise or perform under this Act, except for the powers under sections 5, 6, 6A, 14, and 17.",
+                "Yes, the Central Government is authorized to delegate its powers and functions under this Act.",
+                "The powers or functions delegated by the Central Government can be exercised or performed by officers or authorities subordinate to the Central Government, or by State Governments or officers or authorities subordinate to State Governments.",
+                "The Central Government can issue a notification in the Official Gazette specifying the matters, conditions, and any limitations related to the delegation of powers or functions.",
+                "The powers under sections 5, 6, 6A, 14, and 17 are not eligible for delegation under this Act.",
+                "Yes, State Governments can exercise powers and functions delegated by the Central Government under this Act.",
+                "The delegation of powers or functions may be subject to specific conditions or limitations as specified in the notification issued by the Central Government."
+            ],
+            "context": "This section grants the Central Government the authority to delegate powers and functions it can exercise or perform under this Act, with the exception of specific powers listed in the section. The delegation can be to officers or authorities subordinate to the Central Government or to State Governments and their subordinate officers or authorities, subject to conditions or limitations as specified in the notification."
+        },
+        {
+            "tag": "act_18_Rule_Making_Procedure",
+            "patterns": [
+                "act 18 of the explosive act",
+                "what is the act 18 of the explosive act",
+                "What is the procedure for making rules ?",
+                "What is the procedure for publication rules ?",
+                "What is the procedure for confirmation rules ?",
+                "How should the draft of proposed rules be published?",
+                "Is there a specific date mentioned for the draft rules to be considered?",
+                "Can objections or suggestions be submitted regarding the draft rules?",
+                "When does a rule made under this Act take effect?",
+                "What is the significance of the publication of a rule in the Official Gazette?",
+                "Can the authorities exercise the power to make rules as needed?"
+            ],
+            "responses": [
+                "The procedure for making rules under this Act involves publishing a draft of the proposed rules to inform those likely to be affected.",
+                "Act 18, Explosive Act,1884\nProcedure for making, publication and confirmation of rules. — \n(1) An authority making rules under this Act shall before making the rules, publish a draft of the proposed rules for the information of persons likely to be affected thereby.\n(2) The publication shall be made in such manner as the Central Government, from time to time, by notification in the Official Gazette prescribes.\n(3) There shall be published with the draft a notice specifying a date at or after which the draft will be taken into consideration.\n(4) The authority making the rules shall receive and consider any objection or suggestion which may be made by any person with respect to the draft before the date so specified.\n(5) A rule made under this Act shall not take effect until it has been published in the Official Gazette\n(6) The publication in the Official Gazette of a rule purporting to be made under this Act shall be conclusive evidence that it has been duly made, and, if it, requires sanction, that it has been duly sanctioned.\n(7) All powers to make rules conferred by this Act may be exercised from time to time as occasion requires.\n[(8) Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session",
+                "The publication of the draft rules should be done in the manner prescribed by the Central Government through notifications in the Official Gazette.",
+                "A notice specifying a date at or after which the draft will be considered must be published with the draft.",
+                "The authority making the rules is required to receive and consider objections or suggestions from any person with respect to the draft before the specified date.",
+                "A rule made under this Act does not take effect until it has been published in the Official Gazette.",
+                "The publication of a rule in the Official Gazette serves as conclusive evidence that it has been duly made, and if it requires sanction, that it has been duly sanctioned.",
+                "Yes, all powers to make rules conferred by this Act can be exercised from time to time as occasion requires."
+            ],
+            "context": "This section outlines the procedure for making, publishing, and confirming rules under this Act. It includes the requirement to publish a draft of proposed rules, receive objections or suggestions, and the publication in the Official Gazette as evidence of rule validity. Additionally, there is a provision regarding the presentation of rules before the Parliament for review."
+        }
+    ]
+}
