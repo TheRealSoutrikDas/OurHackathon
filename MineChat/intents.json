@@ -199,7 +199,8 @@
       "patterns": [
         "What is Mine?",
         "What do you mean by Mines?",
-        "Define Mines."
+        "Define Mines.",
+        "What is a mine"
       ],
       "responses": [
         "Mines means any excavation where any operation for the purpose of searching for or obtaining minerals has been or is being carried on."
@@ -619,32 +620,50 @@
     {
       "tag": "chief_inspector_authorization_func_1952",
       "patterns": [
-          "What powers does the Chief Inspector have regarding authorizing other Inspectors?",
-          "Explain how the Chief Inspector can delegate powers to other Inspectors.",
-          "Tell me about the process of Chief Inspector authorizing Inspectors' powers.",
-          "Can the Chief Inspector delegate powers to specific Inspectors or classes of Inspectors?",
-          "What restrictions or conditions can the Chief Inspector impose when authorizing powers to other Inspectors?",
-          "How does the Chief Inspector seek approval from the Central Government for authorizing powers?",
-          "What are the specific powers that the Chief Inspector can delegate to other Inspectors?",
-          "What is the role of the Central Government in the Chief Inspector's authorization of powers?",
-          "How can Chief Inspector authorize Inspectors to exercise powers?",
-          "What powers can Chief Inspector delegate to Inspectors?",
-          "Explain the Chief Inspector's role in authorizing Inspector powers.",
-          "Can Chief Inspector grant powers to specific Inspectors or classes?",
-          "What are the conditions for Chief Inspector's authorization of powers?",
-          "How does Chief Inspector seek Central Government approval for authorizing powers?",
-          "What restrictions can Chief Inspector impose when authorizing powers?",
-          "What is the purpose of Chief Inspector's written orders for authorization?"
+        "How can Chief Inspector grant powers to Inspectors?",
+        "Tell me about Chief Inspector's authority to authorize Inspector powers.",
+        "What are the conditions for Chief Inspector's authorization of powers?",
+        "Who can Chief Inspector authorize to exercise powers?",
+        "Explain the role of Central Government in Chief Inspector's authorizations.",
+        "Can Chief Inspector specify restrictions when authorizing powers?",
+        "What is the purpose of Chief Inspector's written orders for authorizing powers?",
+        "Why are some powers excluded from Chief Inspector's authorization?",
+        "Give examples of powers that Chief Inspector can delegate.",
+        "How does Chief Inspector seek Central Government approval for authorizing powers?",
+        "What is the significance of Inspector powers under this Act?",
+        "What happens if Chief Inspector authorizes powers without approval?",
+        "Are there any limitations to Chief Inspector's authorizations?",
+        "Can Chief Inspector's authorization impede mining operations?",
+        "Who ensures compliance with Chief Inspector's authorizations?",
+        "What happens if someone refuses to comply with authorized Inspector powers?",
+        "What is the legal basis for Chief Inspector's authorizations?",
+        "Can Chief Inspector's authorizations be challenged or appealed?",
+        "What safeguards exist to prevent misuse of Chief Inspector's authorizations?",
+        "How often can Chief Inspector issue written orders for authorizing powers?",
+        "Give examples of restrictions or conditions Chief Inspector may impose."
       ],
       "responses": [
-          "The Chief Inspector, with the approval of the Central Government, can issue written orders authorizing specific Inspectors or classes of Inspectors to exercise certain powers under this Act, excluding those related to appeals.",
-          "The Chief Inspector has the authority to delegate powers to other Inspectors, subject to approval from the Central Government and the imposition of suitable restrictions or conditions through written orders.",
-          "The process involves the Chief Inspector obtaining approval from the Central Government and issuing written orders to authorize particular Inspectors or classes of Inspectors to exercise specific powers, excluding those related to appeals.",
-          "Yes, the Chief Inspector can delegate powers to either named Inspectors or specified classes of Inspectors, as per the written order issued.",
-          "When authorizing powers to other Inspectors, the Chief Inspector can impose suitable restrictions or conditions to ensure the proper exercise of those powers.",
-          "To seek approval from the Central Government for authorizing powers, the Chief Inspector follows established procedures and provides the necessary documentation.",
-          "The Chief Inspector can specify the particular powers that are delegated to other Inspectors in the written order, excluding those related to appeals.",
-          "The Central Government plays a crucial role in approving the Chief Inspector's authorization of powers, ensuring compliance with established procedures."
+        "The Chief Inspector, with Central Government approval, can issue written orders to authorize specific Inspectors or classes to exercise certain powers, excluding appeals.",
+        "Chief Inspector can delegate various powers to Inspectors as specified in the written orders.",
+        "Chief Inspector's authorization is subject to specific conditions and restrictions imposed as deemed fit.",
+        "Chief Inspector can authorize named Inspectors or specified classes to exercise powers.",
+        "Central Government plays a crucial role in approving Chief Inspector's authorizations.",
+        "Yes, Chief Inspector can specify suitable restrictions or conditions when authorizing powers.",
+        "Chief Inspector's written orders for authorizing powers ensure clarity and compliance with the specified powers.",
+        "Some powers, such as those related to appeals, are excluded from Chief Inspector's authorizations.",
+        "Examples of delegated powers include inspection, examination, and inquiry powers.",
+        "Chief Inspector follows established procedures and submits necessary documentation to seek Central Government approval.",
+        "Inspector powers are essential for enforcing and maintaining compliance with this Act.",
+        "Unauthorized authorizations by Chief Inspector may have legal implications.",
+        "There are limitations and legal checks on Chief Inspector's authorizations.",
+        "Chief Inspector ensures that authorizations do not unreasonably impede mining operations.",
+        "Compliance with Chief Inspector's authorizations is the responsibility of mine operators and workers.",
+        "Refusal to comply with authorized Inspector powers can lead to legal consequences.",
+        "Chief Inspector's authorizations are based on the provisions of this Act and relevant regulations.",
+        "Certain aspects of Chief Inspector's authorizations may be subject to challenge or appeal.",
+        "Safeguards are in place to prevent misuse of Chief Inspector's authorizations.",
+        "Chief Inspector can issue written orders for authorizing powers as needed, following due process.",
+        "Examples of restrictions or conditions may include time limitations, reporting requirements, or safety measures."
       ]
     },
     {
@@ -732,6 +751,718 @@
           "The provisions of the Code of Criminal Procedure apply to searches and seizures under this Act as they do to warrant-based searches."
       ]
     },
+    {
+      "tag": "government_person_authorization_1952_sec8",
+      "patterns": [
+          "Who can enter a mine for surveying, leveling, or measuring purposes?",
+          "What authorization is required to enter a mine for surveying?",
+          "Explain the authority of Government personnel to enter a mine.",
+          "What notice period is required before entering a mine for surveying?",
+          "Can mine entry for surveying be done at any time?",
+          "What is the purpose of surveying, leveling, or measuring a mine?",
+          "What is the role of the Chief Inspector or Inspector in authorizing mine entry?",
+          "What happens in case of an emergency in a mine?",
+          "Is notice required when entering a mine in an emergency?",
+          "How can Government personnel obtain authorization for mine entry?",
+          "What are the conditions for Government personnel to enter a mine?",
+          "What are the responsibilities of the mine manager in this context?",
+          "What is the scope of surveying, leveling, or measuring in a mine?",
+          "What are the rights of Government personnel while inside a mine?",
+          "Are there any restrictions on mine entry for surveying?",
+          "Can surveying, leveling, or measuring be done at night?",
+          "What safeguards are in place for mine entry in emergencies?",
+          "How does this provision ensure safety in mining operations?",
+          "Are there any legal consequences for unauthorized mine entry?",
+          "What is the process for obtaining special authorization in an emergency?",
+          "Who can enter a mine for surveying",
+          "Who can enter a mine for leveling",
+          "Who can enter a mine for measuring",
+          "who can enter mines?",
+          "The Coal Act 1952 section-8"
+      ],
+      "responses": [
+          "Any person in the service of the Government, duly authorized by written order of the Chief Inspector or an Inspector, may enter a mine for surveying, leveling, or measuring purposes.",
+          "The authorization is granted through a special written order by the Chief Inspector or an Inspector.",
+          "Government personnel have the authority to enter a mine after giving at least three days' notice to the mine manager.",
+          "Mine entry for surveying can occur at any time, whether during the day or night.",
+          "Surveying, leveling, or measuring is conducted to gather data and information about the mine's layout and conditions.",
+          "The Chief Inspector or an Inspector plays a key role in authorizing and regulating mine entry for surveying purposes."
+      ]
+    },
+    {
+      "tag": "facilities_for_entry_inspection",
+      "patterns": [
+          "What are the obligations of mine owners, agents, and managers?",
+          "Who should provide reasonable facilities for entry, inspection, and inquiry?",
+          "Who has the authority to authorize entry under section 8?",
+          "Why is it important to provide reasonable facilities for entry and inspection?",
+          "Are there any exceptions to providing facilities for entry and inspection?",
+          "What kind of facilities should be provided for inspection and inquiry?",
+          "How does this provision ensure safety in mining operations?",
+          "What rights do Chief Inspectors and Inspectors have during inspections?",
+          "What are the consequences of non-compliance with this provision?",
+          "What is the purpose of making entries and inspections?",
+          "Can inspectors enter mines without prior notice?",
+          "How can mine owners cooperate with inspections and inquiries?",
+          "What is the scope of surveys and measurements in mines?",
+          "How can inspectors ensure compliance with mining regulations?",
+          "Is there a timeframe for providing reasonable facilities?",
+          "The Coal Act 1952 section-9",
+          "What is section-9 of The coal act of 1952"
+      ],
+      "responses": [
+          "As per section 9 Every owner, agent, and manager of a mine is obligated to provide the Chief Inspector, every Inspector, and any person authorized under section 8 with all reasonable facilities for making entries, inspections, surveys, measurements, examinations, or inquiries under this Act.",
+          "The responsibility falls on mine owners, agents, and managers to facilitate inspections and inquiries and must provide everything for inspection and inquiry.",
+          "The Chief Inspector and Inspectors have the authority to carry out inspections and inquiries under this Act section 8 and must provide everything for entry.",
+          "Section 8 authorizes specific individuals to conduct inspections and inquiries and must provide everything for entry.",
+          "As per section 9 it is necessary Providing reasonable facilities ensures that mines are in compliance with safety and regulatory standards."
+      ]
+    },
+    {
+      "tag": "safety_inspection_1952_sec9a",
+      "patterns": [
+        "What is the purpose of a safety survey in a mine?",
+        "Who is authorized to conduct safety surveys in mines?",
+        "Can safety surveys be conducted at night?",
+        "Tell me about the importance of safety in mines.",
+        "When should a mine manager be notified of a safety survey?",
+        "What facilities should the mine owner provide during a safety survey?",
+        "How often should safety surveys be conducted in mines?",
+        "Are safety surveys mandatory for all mines?",
+        "What are the risks of not conducting safety surveys?",
+        "What equipment is typically examined during a safety survey?",
+        "Explain the role of the Chief Inspector in mine safety.",
+        "What data is collected during a safety survey?",
+        "What happens if a mine fails a safety survey?",
+        "Can you provide statistics on mine accidents?",
+        "How can miners contribute to safety in the workplace?",
+        "Tell me about safety regulations in the mining industry.",
+        "What are the common hazards in mines?",
+        "What training is required for mine workers regarding safety?",
+        "Are safety audits different from safety surveys?",
+        "What is the legal framework for safety in mining?",
+        "The Coal Act 1952 Section-9A Sub-section-1.",
+        "Health survey in mines",
+        "Safety survey in mines"
+      ],
+      "responses": [
+        "The Chief Inspector, an Inspector, or an authorized officer can conduct safety and occupational health surveys in a mine at any time, whether during regular working hours or day and night as necessary. Before doing so, they must provide written notice to the mine manager. The mine's owner, agent, or manager is obligated to provide all essential facilities, which encompass machinery examination, sample collection, data gathering related to the survey, and transportation and examination of any employed mine personnel selected for the survey."
+      ]
+    },
+    {
+      "tag": "examination_in_mine_1952_sec9a",
+      "patterns": [
+        "What is the purpose of the examination in a mine survey?",
+        "Who is chosen for examination during a safety and occupational health survey?",
+        "Where should a person employed in a mine go for examination during the survey?",
+        "What information should a mine worker provide during the examination?",
+        "Why is health information important in mine surveys?",
+        "Tell me about the responsibilities of mine workers during safety surveys.",
+        "Are mine workers required to participate in safety surveys?",
+        "What happens if a mine worker refuses to participate in the examination?",
+        "Explain the process of examination during a mine survey.",
+        "Can a mine worker choose not to provide information during the examination?",
+        "Who conducts the examination during safety surveys?",
+        "What are the consequences of not participating in the examination?",
+        "How often are mine workers chosen for examination in surveys?",
+        "Tell me about safety measures in mines.",
+        "What are the objectives of occupational health surveys in mines?",
+        "What rights do mine workers have during the examination?",
+        "What type of information is collected during a mine survey?",
+        "Are there any legal regulations for mine worker examinations?",
+        "Can you explain the significance of health data in mine surveys?",
+        "What is the role of the Chief Inspector in mine examinations?",
+        "The Coal Act 1952 Section-9A Sub-section-2."
+      ],
+      "responses": [
+        "Every person employed in a mine who is chosen for examination in any safety and occupational health survey must present themselves for examination at the necessary place and provide all information regarding their work and health for the survey."
+      ]
+    },
+    {
+      "tag": "working_time_in_mine_survey_1952_sec9a",
+      "patterns": [
+        "How is the time spent by mine workers during safety surveys counted?",
+        "Is the time spent in a safety and occupational health survey considered working hours?",
+        "Do mine workers receive overtime pay for survey participation?",
+        "What happens to the working time of mine employees during a survey?",
+        "Can you explain the compensation for overtime during surveys?",
+        "Is survey participation included in the regular working hours of mine workers?",
+        "Are there any exceptions for overtime pay during surveys?",
+        "Tell me about the policies regarding working hours during mine surveys.",
+        "Who determines the rate of wages for overtime during surveys?",
+        "What are the implications of counting survey time as working time?",
+        "Are there any regulations governing overtime pay in mines?",
+        "What is the standard rate of wages for overtime in mine surveys?",
+        "Can mine workers refuse to participate in surveys if they don't want overtime?",
+        "How does counting survey time affect mine worker schedules?",
+        "Are there any restrictions on the use of survey time for overtime?",
+        "What rights do mine workers have regarding overtime during surveys?",
+        "Can mine workers negotiate the rate of overtime pay for surveys?",
+        "Are there any benefits to mine workers for participating in surveys?",
+        "What are the legal provisions for compensating mine workers during surveys?",
+        "Can mine workers choose to receive compensatory time off instead of overtime pay?",
+        "The Coal Act 1952 Section-9A Sub-section-3."
+      ],
+      "responses": [
+        "The time spent by any person employed in a mine who is chosen for examination in the safety and occupational health survey shall be counted towards their working time. However, any overtime shall be paid at the ordinary rate of wages."
+      ]
+    },
+    {
+      "tag": "ordinary_rate_of_wages_1952_sec9a",
+      "patterns": [
+        "What is the definition of the 'ordinary rate of wages' in mines?",
+        "How is the 'ordinary rate of wages' calculated for mine workers?",
+        "Can you explain the components of the 'ordinary rate of wages'?",
+        "Does the 'ordinary rate of wages' include bonuses?",
+        "Are amenities like free housing included in the 'ordinary rate of wages'?",
+        "What is the significance of 'dearness allowance' in the 'ordinary rate of wages'?",
+        "Is compensation for medical facilities considered in the 'ordinary rate of wages'?",
+        "Are all types of allowances included in the 'ordinary rate of wages'?",
+        "What is the purpose of the 'underground allowance' in the 'ordinary rate of wages'?",
+        "Can you clarify what 'compensation in cash' means in this context?",
+        "Are there any exceptions to including allowances in the 'ordinary rate of wages'?",
+        "Can you provide examples of allowances that are not included in the 'ordinary rate of wages'?",
+        "What is the difference between a bonus and compensation for amenities?",
+        "How do mine workers benefit from the 'ordinary rate of wages' definition?",
+        "Are there any legal requirements for defining the 'ordinary rate of wages'?",
+        "Can mine workers negotiate their 'ordinary rate of wages'?",
+        "Do changes in entitlements affect the 'ordinary rate of wages'?",
+        "How often is the 'ordinary rate of wages' updated for mine workers?",
+        "Can mine workers opt for non-cash benefits instead of the 'ordinary rate of wages'?",
+        "Are there any regulations regarding the 'ordinary rate of wages' in mines?"
+      ],
+      "responses": [
+        "For the purposes of sub-section-3 of section 9A The Coal Act 1952, 'ordinary rate of wages' means the basic wages plus any dearness allowance and underground allowance, and compensation in cash, including such compensation accruing through the free issue of foodgrains and edible oils as persons employed in a mine may, for the time being, be entitled to. However, it does not include a bonus (other than a bonus given as an incentive for production) or any compensation accruing through the provision of amenities such as free housing, free supply of coal, medical and educational facilities, sickness allowance, supply of kerosene oil, baskets, tools, and uniforms."
+      ]
+    },
+    {
+      "tag": "medical_treatment_for_unfit_workers_1952_sec9a",
+      "patterns": [
+        "What happens if a mine worker is found medically unfit during an examination?",
+        "Can you explain the procedure for a mine worker found medically unfit?",
+        "Who bears the cost of medical treatment for unfit mine workers?",
+        "Do unfit mine workers receive full wages during their treatment?",
+        "How is the entitlement to medical treatment determined for unfit mine workers?",
+        "What kind of medical treatment is provided to unfit mine workers?",
+        "Are there any conditions or criteria for providing medical treatment to unfit workers?",
+        "What is the duration of medical treatment for unfit mine workers?",
+        "Can unfit mine workers choose their healthcare providers for treatment?",
+        "Is there a waiting period for unfit mine workers to receive medical treatment?",
+        "Are there any limitations on the types of medical conditions covered by this policy?",
+        "Is there a process for assessing the medical fitness of mine workers?",
+        "What documentation is required for unfit mine workers to access medical treatment?",
+        "Is there any legal framework governing medical treatment for unfit mine workers?",
+        "Can unfit mine workers return to their duties after receiving medical treatment?",
+        "How does this policy impact mine worker morale and job security?",
+        "What support services are available to unfit mine workers during treatment?",
+        "Are there any additional benefits provided to unfit mine workers during treatment?",
+        "What are the responsibilities of the owner, agent, and manager in this context?",
+        "Is there any dispute resolution mechanism for unfit mine workers and employers?",
+        "Tell me about medical treatment of workers?",
+        "The Coal Act 1952 Section-9A Sub-section-4."
+      ],
+      "responses": [
+        "Any person who, on examination under sub-section (2), is found medically unfit to do his or her duty must be discharged and will be entitled to undergo medical treatment at the cost of the owner, agent, and manager with full wages during the period of such treatment."
+      ]
+    },
+    {
+      "tag": "alternative_employment_for_medically_unfit_workers_1952_sec9a",
+      "patterns": [
+        "What happens if a mine worker remains medically unfit after treatment?",
+        "Can you explain the provisions for medically unfit mine workers?",
+        "Who is responsible for providing alternative employment to medically unfit mine workers?",
+        "Are there specific criteria for determining if a mine worker is medically unfit?",
+        "How is the fitness for alternative employment assessed?",
+        "What are the options for medically unfit mine workers if alternative employment is not available?",
+        "What is a disability allowance for medically unfit mine workers?",
+        "How is the disability allowance rate determined?",
+        "Can a medically unfit mine worker choose to leave their employment?",
+        "What is disability compensation for mine workers who decide to leave their job?",
+        "Are there specific rates prescribed for disability compensation?",
+        "Is there a waiting period for alternative employment or compensation?",
+        "Are there any legal regulations regarding alternative employment and compensation?",
+        "What documentation is required for a medically unfit mine worker to access benefits?",
+        "Are there any time limits for seeking alternative employment or compensation?",
+        "Can medically unfit mine workers return to their previous jobs after recovery?",
+        "How does this policy affect the rights and welfare of medically unfit mine workers?",
+        "Are there support services available to assist medically unfit mine workers?",
+        "What are the responsibilities of the owner, agent, and manager in this context?",
+        "Is there a dispute resolution process for medically unfit mine workers and employers?",
+        "The Coal Act 1952 Section-9A Sub-section-5."
+      ],
+      "responses": [
+        "If, after medical treatment, a person referred to in sub-section (4) is declared medically unfit to discharge the duty which he was discharging in a mine before presenting himself for the examination, and such unfitness is directly ascribable to his employment in the mine before such presentation, the owner, agent, and manager shall provide such person with alternative employment in the mine for which he is medically fit. If no such alternative employment is immediately available, the person shall be paid a disability allowance or lump sum disability compensation determined in accordance with the prescribed rates."
+      ]
+    },
+    {
+      "tag": "determination_of_rates_for_disabilities_1952_sec9a",
+      "patterns": [
+        "How are the rates determined under the provisos to sub-section (5)?",
+        "Can you explain the factors considered in determining the rates for disabilities?",
+        "What is the significance of monthly wages in rate determination?",
+        "How does the nature of disabilities affect the rate determination?",
+        "Are there specific factors related to rate determination?",
+        "Who is responsible for determining the rates for disabilities?",
+        "Is there a formula or methodology for rate determination?",
+        "Are there any guidelines or criteria for rate determination?",
+        "Can you provide examples of how rates vary based on different factors?",
+        "Are there different rates for different types of disabilities?",
+        "What data or information is used in the rate determination process?",
+        "How often are the rates for disabilities reviewed or updated?",
+        "Are there any legal regulations governing the rate determination process?",
+        "Is there a transparent process for mine workers to understand rate determination?",
+        "Are there any industry standards for rates related to disabilities?",
+        "Can mine workers provide input or feedback on rate determination?",
+        "How do the rates for disabilities impact the financial support provided to mine workers?",
+        "Are there support services available to assist mine workers in understanding rates?",
+        "What are the responsibilities of the owner, agent, and manager in this context?",
+        "Is there a dispute resolution process for rate-related matters?",
+        "The Coal Act 1952 Section-9A Sub-section-6."
+      ],
+      "responses": [
+        "The rates under the provisos to sub-section (5) shall be determined having regard to the monthly wages of the employees, the nature of disabilities, and other related factors."
+      ]
+    },
+    {
+      "tag": "confidentiality_of_mine_records_1952_sec9a",
+      "patterns": [
+        "What is the confidentiality policy regarding mine records?",
+        "Can you explain the handling of records and information from mine inspections?",
+        "Who is responsible for maintaining the confidentiality of mine records?",
+        "Under what circumstances can mine inspection records be disclosed?",
+        "Are there any exceptions to the confidentiality rule?",
+        "What types of information are included in mine records?",
+        "Is there a process for determining when disclosure is necessary?",
+        "How is the health, safety, and welfare of mine workers ensured?",
+        "Can mine workers access their own inspection records?",
+        "Are there legal regulations governing the confidentiality of mine records?",
+        "What are the consequences of unauthorized disclosure of mine records?",
+        "Is there any oversight or monitoring of record confidentiality?",
+        "Are there penalties for violating the confidentiality policy?",
+        "How long are mine records typically retained?",
+        "Are there specific procedures for requesting access to mine records?",
+        "Are there any industry standards for mine record confidentiality?",
+        "What are the responsibilities of the Chief Inspector and Inspectors in this context?",
+        "Is there a mechanism for reporting concerns related to record confidentiality?",
+        "Can mine owners or managers request access to inspection records?",
+        "Are there any safeguards in place to protect the confidentiality of records?",
+        "Disclosure of mine records?",
+        "The Coal Act 1952 section-10 sub-section-1"
+      ],
+      "responses": [
+        "All copies of, and extracts from, registers or other records pertaining to any mine and all other information acquired by the Chief Inspector, an Inspector, or any person assisting them during mine inspection or survey shall be regarded as confidential. Such information shall not be disclosed to any person or authority unless the Chief Inspector or the Inspector deems disclosure necessary to ensure the health, safety, or welfare of any person employed in the mine or in any other mine adjacent thereto."
+      ]
+    },
+    {
+      "tag": "exceptions_to_mine_information_disclosure_1952_sec9a",
+      "patterns": [
+        "Are there any exceptions to the confidentiality rule in the Coal Act Section 10, Sub-section (1)?",
+        "Can you specify situations where mine information can be disclosed?",
+        "Who has the authority to request disclosure of mine information?",
+        "Is there a process for disclosing mine information to specific entities?",
+        "What entities or individuals can receive mine information under exceptions?",
+        "Are there any specific criteria for disclosing mine information?",
+        "How does disclosing mine information to a Committee or court of inquiry work?",
+        "Can mine owners, agents, or managers access confidential mine information?",
+        "Who is a Commissioner for workmen's compensation under the Workmen's Compensation Act?",
+        "Under what circumstances can mine information be shared with the Indian Bureau of Mines?",
+        "Are there any limitations on disclosing mine information to trade unions?",
+        "Can other officers, authorities, or organizations be specified by the Central Government for information disclosure?",
+        "Is there a process for requesting the disclosure of mine information?",
+        "Are there legal regulations regarding exceptions to mine information disclosure?",
+        "What are the responsibilities of the Chief Inspector and Inspectors in relation to information disclosure?",
+        "Is there any oversight or monitoring of the information disclosure process?",
+        "What are the consequences of unauthorized disclosure of mine information?",
+        "Is there a mechanism for reporting concerns related to information disclosure?",
+        "Can individuals or organizations appeal for the disclosure of mine information?",
+        "How does information disclosure affect the rights and privacy of mine workers?",
+        "When is disclosure of information not applicable?",
+        "The Coal Act 1952 section-10 sub-section-2"
+      ],
+      "responses": [
+        "Nothing in the Coal Act Section 10, Sub-section (1), shall apply to the disclosure of any such information (if so required) to various entities including courts, Committees or courts of inquiry, official superiors, mine owners, Commissioners for workmen's compensation, the Controller of the Indian Bureau of Mines, registered or recognized trade unions, and other specified officers, authorities, or organizations as may be designated by the Central Government."
+      ]
+    },
+    {
+      "tag": "punishment_for_information_disclosure_1952_sec9a",
+      "patterns": [
+        "What are the consequences of disclosing mine information without consent?",
+        "Is there a penalty for unauthorized disclosure of mine information?",
+        "Can you explain the punishment for violating the information disclosure provisions?",
+        "Who can be held responsible for unauthorized disclosure?",
+        "What is the role of the Chief Inspector and Inspectors in this context?",
+        "Are there any exceptions to the punishment for unauthorized disclosure?",
+        "Is imprisonment the only form of punishment for unauthorized disclosure?",
+        "Can fines be imposed for unauthorized disclosure?",
+        "What factors determine the severity of the punishment for unauthorized disclosure?",
+        "How is consent from the Central Government obtained for disclosure?",
+        "Are there any legal safeguards for individuals accused of unauthorized disclosure?",
+        "Can individuals or organizations report unauthorized disclosures?",
+        "Is there a mechanism for appealing against the punishment for unauthorized disclosure?",
+        "What steps can be taken to prevent unauthorized disclosure of mine information?",
+        "How does unauthorized disclosure impact mine workers and mine safety?",
+        "Are there any legal regulations governing the punishment for unauthorized disclosure?",
+        "Is there a statute of limitations for prosecuting unauthorized disclosure cases?",
+        "What are the responsibilities of the Chief Inspector and Inspectors in relation to information disclosure?",
+        "Is there a mechanism for reporting concerns related to information disclosure?",
+        "What rights and protections are provided to individuals accused of unauthorized disclosure?",
+        "Is the disclosure of information without Central governments consent Punishable?",
+        "The Coal Act 1952 section-10 sub-section-3"
+      ],
+      "responses": [
+        "If the Chief Inspector, an Inspector, or any other person referred to in Sub-section (1) discloses, contrary to the provisions of this section, any such information as mentioned without the consent of the Central Government, they shall be punishable with imprisonment for a term that may extend to one year, or with a fine, or with both."
+      ]
+    },
+    {
+      "tag": "sanction_for_trial_under_coal_act_1952_sec9a",
+      "patterns": [
+        "What is the procedure for initiating a trial under the Coal Act 1952, Section 10?",
+        "Is there a requirement for seeking approval before proceeding to trial?",
+        "Who has the authority to grant sanction for trial under the Coal Act?",
+        "Can you explain the role of the Central Government in granting sanction?",
+        "Are there any exceptions to the requirement for sanction?",
+        "How is the necessity for trial determined?",
+        "What criteria are considered before granting sanction for trial?",
+        "Is there a specific process for applying for sanction?",
+        "What happens if a court proceeds to trial without obtaining sanction?",
+        "What are the consequences of proceeding without Central Government sanction?",
+        "Is there a timeline for obtaining sanction for trial?",
+        "Are there legal regulations governing the requirement for sanction?",
+        "Is there a mechanism for appealing if sanction is denied?",
+        "What rights and protections are provided to individuals facing trial under the Coal Act?",
+        "Can individuals or organizations report cases that require trial?",
+        "Is there a statute of limitations for initiating trials under the Coal Act?",
+        "What role do the Chief Inspector and Inspectors play in this context?",
+        "Are there any support services for individuals involved in trials?",
+        "How does the requirement for sanction impact the efficiency of trials?",
+        "Is there a process for requesting expedited sanction for urgent cases?",
+        "Can a court proceed with a trial of ant offence under the coal act 1952?",
+        "The Coal Act 1952 section-10 sub-section-4"
+      ],
+      "responses": [
+        "No court shall proceed to the trial of any offence under the Coal Act 1952, Section 10, except with the previous sanction of the Central Government."
+      ]
+    },
+    {
+      "tag": "appointment_of_certifying_surgeons_1952_sec9a",
+      "patterns": [
+        "How are certifying surgeons appointed under The Coal Act 1952?",
+        "Who has the authority to appoint certifying surgeons for the Act's purposes?",
+        "What qualifications are required for medical practitioners to become certifying surgeons?",
+        "Can you explain the responsibilities of certifying surgeons?",
+        "How are local limits or specific mines assigned to certifying surgeons?",
+        "Are there any limitations on the number of certifying surgeons that can be appointed?",
+        "Are there specific qualifications or expertise required for certifying surgeons?",
+        "What is the role of certifying surgeons in ensuring mine safety?",
+        "What happens if a mine does not have an appointed certifying surgeon?",
+        "How often are certifying surgeons appointed or reassigned?",
+        "Are there any legal regulations governing the appointment of certifying surgeons?",
+        "Is there a mechanism for appealing certifying surgeon appointments?",
+        "Are certifying surgeons compensated for their services?",
+        "Are there any ethical guidelines or standards for certifying surgeons?",
+        "How do certifying surgeons contribute to the health and safety of mine workers?",
+        "Is there a process for reporting concerns or grievances related to certifying surgeons?",
+        "What role do the Chief Inspector and Inspectors play in relation to certifying surgeons?",
+        "Can mine workers choose their certifying surgeons?",
+        "Are there any support services available to mine workers in relation to certifying surgeons?",
+        "What is the significance of certifying surgeons in The Coal Act 1952?",
+        "The Coal Act 1952 section-11 sub-section-1"
+      ],
+      "responses": [
+        "The Central Government may appoint qualified medical practitioners to be certifying surgeons for the purposes of The Coal Act 1952, within such local limits or for such mine or class or description of mines as it may assign to them respectively."
+      ]
+    },
+    {
+      "tag": "authorization_of_medical_practitioners_by_certifying_surgeon_1952_sec9a",
+      "patterns": [
+        "Under what conditions can a certifying surgeon authorize another medical practitioner?",
+        "What is the process for a certifying surgeon to authorize another medical practitioner?",
+        "Who has the authority to grant approval for the authorization of medical practitioners?",
+        "What are the powers that a certifying surgeon can delegate to another medical practitioner?",
+        "Can you explain the role and responsibilities of an authorized medical practitioner?",
+        "Is there a specific duration for which an authorized medical practitioner can exercise powers?",
+        "How does the authorization of medical practitioners impact the implementation of the Act?",
+        "Are there any limitations or restrictions on the authorization process?",
+        "Is there a mechanism for appealing authorization decisions?",
+        "Can authorized medical practitioners receive compensation for their services?",
+        "Are there any ethical guidelines or standards for authorized medical practitioners?",
+        "What is the significance of authorizing medical practitioners in this Act?",
+        "Is there a process for reporting concerns or grievances related to authorized medical practitioners?",
+        "How do authorized medical practitioners contribute to the health and safety of mine workers?",
+        "What role do the Chief Inspector and Inspectors play in relation to authorized medical practitioners?",
+        "Can mine workers request specific authorized medical practitioners?",
+        "Are there any support services available to mine workers related to authorized medical practitioners?",
+        "What is the Central Government's role in imposing conditions on authorizations?",
+        "How does the authorization process impact the efficiency of Act implementation?",
+        "Are there any legal regulations governing the authorization of medical practitioners?",
+        "The Coal Act 1952 section-11 sub-section-2"
+      ],
+      "responses": [
+        "Subject to such conditions as the Central Government may think fit to impose, a certifying surgeon may, with the approval of the Central Government, authorize any qualified medical practitioner to exercise all or any of his powers under this Act for such period as the certifying surgeon may specify. References to a certifying surgeon shall be deemed to include references to any qualified medical practitioner when so authorized."
+      ]
+    },
+    {
+      "tag": "qualification_for_certifying_surgeons_1952_sec9a",
+      "patterns": [
+        "What are the qualifications required to be a certifying surgeon?",
+        "Can you explain who can be appointed or authorized as a certifying surgeon?",
+        "Are there any restrictions on the appointment of certifying surgeons?",
+        "Who is eligible to exercise the powers of a certifying surgeon?",
+        "What happens if someone is the owner, agent, or manager of a mine?",
+        "Can individuals directly or indirectly interested in a mine become certifying surgeons?",
+        "Are there any exceptions to the eligibility criteria for certifying surgeons?",
+        "How does employment in a mine affect eligibility for certifying surgeons?",
+        "What is the significance of ensuring no conflict of interest for certifying surgeons?",
+        "Is there a process for verifying the qualifications of certifying surgeons?",
+        "Are there any legal regulations governing the appointment and eligibility of certifying surgeons?",
+        "Can individuals appeal if they are denied the position of certifying surgeon?",
+        "Is there a mechanism for reporting concerns related to certifying surgeons?",
+        "How does the eligibility criteria impact mine safety and worker health?",
+        "Are there any support services for individuals interested in becoming certifying surgeons?",
+        "What are the responsibilities and duties of certifying surgeons?",
+        "Can mine workers request specific certifying surgeons for examinations?",
+        "Is there a process for removing certifying surgeons from their positions?",
+        "What is the role of the Central Government in overseeing certifying surgeon appointments?",
+        "Are there any exceptions or special cases regarding certifying surgeon qualifications?",
+        "The Coal Act 1952 section-11 sub-section-2"
+      ],
+      "responses": [
+        "No person shall be appointed to be or authorized to exercise the powers of a certifying surgeon, or having been so appointed or authorized, continue to exercise such powers, who is or becomes the owner, agent, or manager of a mine, or is or becomes directly or indirectly interested therein, or in any process or business carried on therein or in any patent or machinery connected therewith, or is otherwise in the employment of the mine."
+      ]
+    },
+    {
+      "tag": "duties_of_certifying_surgeon_1952_sec9a",
+      "patterns": [
+        "What are the duties of a certifying surgeon in a mine?",
+        "Can you explain the responsibilities of certifying surgeons in connection with dangerous occupations?",
+        "How does a certifying surgeon carry out medical supervision in a mine?",
+        "Are there specific duties related to examining persons engaged in dangerous processes?",
+        "What is the role of a certifying surgeon in preventing illnesses in mines?",
+        "Can you provide examples of dangerous occupations in a mine?",
+        "Are there guidelines or regulations prescribing the duties of certifying surgeons?",
+        "Is there a process for reporting concerns or issues related to a certifying surgeon's duties?",
+        "How do certifying surgeons contribute to the safety and health of mine workers?",
+        "What happens in cases of illness believed to be due to the nature of a mine's processes?",
+        "Are there qualifications or training requirements for certifying surgeons?",
+        "Can certifying surgeons request additional resources or support for their duties?",
+        "Is there a mechanism for certifying surgeons to communicate with mine management?",
+        "Are there any industry standards for the duties of certifying surgeons?",
+        "What is the significance of medical supervision in mines?",
+        "How are dangerous processes identified in a mine?",
+        "What is the role of the Central Government in overseeing certifying surgeons' duties?",
+        "Is there a process for evaluating the performance of certifying surgeons?",
+        "Can mine workers provide feedback on the performance of certifying surgeons?",
+        "Are there any exceptions or special cases regarding certifying surgeons' duties?",
+        "The Coal Act 1952 section-11 sub-section-2"
+      ],
+      "responses": [
+        "The certifying surgeon shall carry out such duties as may be prescribed in connection with the examination of persons engaged in a mine in dangerous occupations or processes as may be prescribed, and the exercise of medical supervision as may be prescribed for any mine or class of mines where cases of illness have occurred that are reasonable to believe are due to the nature of any process carried on or other conditions of work prevailing in the mine."
+      ]
+    },
+    {
+      "tag": "constitution_of_committee_under_coal_act_1952",
+      "patterns": [
+        "How is the Committee under the Coal Act 1952 constituted?",
+        "Can you explain the composition of the Committee appointed under this Act?",
+        "Who serves as the Chairman of the Committee?",
+        "What is the role of the Chief Inspector of Mines in the Committee?",
+        "How are the interests of miners represented in the Committee?",
+        "How are the interests of mine owners represented in the Committee?",
+        "Who appoints the qualified mining engineers in the Committee?",
+        "Are there any specific criteria for the appointment of mining engineers to the Committee?",
+        "What is the significance of representing workers' interests in the Committee?",
+        "What is the significance of representing owners' interests in the Committee?",
+        "Is there a notification process for constituting the Committee?",
+        "Is there a set date specified for the constitution of the Committee?",
+        "Is the Committee responsible for specific tasks or functions?",
+        "What is the Committee's role in relation to the Coal Act 1952?",
+        "Are there any regulations governing the functioning of the Committee?",
+        "How often is the Committee constituted or reconstituted?",
+        "Is there a mechanism for reporting concerns or issues related to the Committee?",
+        "What is the Central Government's role in appointing Committee members?",
+        "Can individuals or organizations propose candidates for the Committee?",
+        "Are there any exceptions or special cases regarding Committee composition?",
+        "The Coal Act 1952 section-12 sub-section-1"
+      ],
+      "responses": [
+        "The Central Government shall, with effect from such date as that Government may specify by notification in the Official Gazette, constitute a Committee for the purposes of the Coal Act 1952. The Committee consists of a Chairman appointed by the Central Government, the Chief Inspector of Mines, two persons representing the interests of miners, two persons representing the interests of owners of mines, and two qualified mining engineers not directly employed in the mining industry. At least one of the persons representing miners' interests should be for coal mine workers, and at least one of the persons representing owners' interests should be for owners of coal mines."
+      ]
+    },
+    {
+      "tag": "constitution_of_specific_committees_under_coal_act_1952",
+      "patterns": [
+        "What is the purpose of constituting specific Committees under the Coal Act 1952?",
+        "Can you explain the authority of the Central Government to form specific Committees?",
+        "How are specific Committees different from the main Committee under the Act?",
+        "What matters do these specific Committees deal with?",
+        "Who appoints the members of these specific Committees?",
+        "Is there a limit on the number of specific Committees that can be constituted?",
+        "Are there specific criteria for appointing members to these Committees?",
+        "What is the role of these specific Committees in the territories covered by the Act?",
+        "How often are specific Committees formed or reformed?",
+        "Is there a notification process for constituting specific Committees?",
+        "Is there a set date specified for the constitution of specific Committees?",
+        "What are the provisions of sub-section (1) regarding the constitution of Committees?",
+        "How do these specific Committees contribute to the implementation of the Act?",
+        "Is there a mechanism for reporting concerns or issues related to specific Committees?",
+        "Are there any legal regulations governing the constitution of specific Committees?",
+        "Can individuals or organizations propose candidates for specific Committees?",
+        "Is there a process for dissolving specific Committees when they are no longer needed?",
+        "What is the Central Government's role in overseeing specific Committees?",
+        "Are there any exceptions or special cases regarding specific Committee constitution?",
+        "What is the significance of these specific Committees in relation to the Coal Act 1952?",
+        "The Coal Act 1952 section-12 sub-section-2"
+      ],
+      "responses": [
+        "Without prejudice to the generality of sub-section (1), the Central Government may constitute one or more Committees to deal with specific matters relating to any part of the territories to which the Coal Act 1952 extends, or to a mine or a group of mines. The Central Government may appoint members for these Committees, and the provisions of sub-section (1) (except the proviso thereto) shall apply for the constitution of any Committee under this sub-section as they apply for the constitution of a Committee under that sub-section."
+      ]
+    },
+    {
+      "tag": "validity_of_committee_act_or_proceedings_coal_act_1952_sec12",
+      "patterns": [
+        "What happens if there is a vacancy among the members of a Committee?",
+        "Does the existence of vacancies affect the validity of a Committee's act or proceeding?",
+        "Is there a process for filling vacancies in a Committee?",
+        "How are defects in the constitution of a Committee addressed?",
+        "Can a Committee continue its work if there are vacant positions?",
+        "Are there any exceptions to the validity of Committee acts or proceedings?",
+        "What rights and protections are provided to Committees in this regard?",
+        "How does the presence of vacancies impact the decision-making process of a Committee?",
+        "Is there a mechanism for reporting concerns related to vacancies or defects in Committee constitution?",
+        "Are there any legal regulations governing the validity of Committee acts or proceedings?",
+        "What role does the Central Government play in addressing vacancies in Committees?",
+        "Can individuals or organizations propose candidates to fill Committee vacancies?",
+        "Is there a time limit for filling vacancies in a Committee?",
+        "What is the significance of ensuring the validity of Committee acts and proceedings?",
+        "How do vacancies or defects impact the effectiveness of a Committee?",
+        "What rights and protections are provided to individuals affected by Committee decisions?",
+        "Are there any exceptions or special cases regarding the validity of Committee acts or proceedings?",
+        "How often are vacancies or defects addressed in Committee constitution?",
+        "Can Committees continue their work during the process of filling vacancies?",
+        "What is the role of the Chairman in addressing vacancies or defects in a Committee?",
+        "The Coal Act 1952 section-12 sub-section-3"
+      ],
+      "responses": [
+        "No act or proceeding of a Committee shall be invalid by reason only of the existence of any vacancy among its members or any defect in the constitution thereof."
+      ]
+    },
+    {
+      "tag": "duties_and_functions_of_committee_under_coal_act_1952_sec13",
+      "patterns": [
+        "What are the duties and functions of the Committee under Section 13 of the Coal Act 1952?",
+        "Can you explain the role of the Committee in making rules and regulations under this Act?",
+        "How does the Committee make recommendations to the Central Government?",
+        "What is the Committee's responsibility in enquiring into accidents and other matters?",
+        "How does the Committee report on accidents and referred matters?",
+        "Is there a process for referring accidents or matters to the Committee?",
+        "What appeals or objections does the Committee hear and decide?",
+        "Are there any limitations on the appeals or objections that the Committee can address?",
+        "Is there a mechanism for reporting concerns or issues to the Committee?",
+        "How often does the Committee meet to perform its functions?",
+        "Is there a timeline for the Committee to complete its tasks?",
+        "What is the role of the Central Government in relation to the Committee's recommendations?",
+        "Can individuals or organizations propose matters for the Committee to consider?",
+        "Are there any legal regulations governing the Committee's duties and functions?",
+        "How does the Committee contribute to the implementation of the Coal Act 1952?",
+        "What is the significance of the Committee's role in hearing appeals and objections?",
+        "What happens if there is a conflict between notices or orders under this Act and the Committee's decisions?",
+        "Are Committee decisions binding, or can they be challenged?",
+        "What is the process for appealing the decisions made by the Committee?",
+        "Are there any exceptions or special cases regarding the Committee's functions?",
+        "The Coal Act 1952 section-13 sub-section-1"
+      ],
+      "responses": [
+        "As per sub-section 1, section 13 of the Coal Act 1952, the Committee constituted under sub-section (1) of section 12 shall consider proposals for making rules and regulations under this Act and make appropriate recommendations to the Central Government. It also enquires into accidents or other matters referred to it by the Central Government and makes reports. The Committee, subject to the provisions of sub-section (2), hears and decides appeals or objections against notices or orders under this Act or the regulations, rules, or bye-laws thereunder, as required by this Act or as may be prescribed."
+      ]
+    },
+    {
+      "tag": "chief_inspector_role_in_committee_proceedings_coal_act_1952_sec13",
+      "patterns": [
+        "What is the role of the Chief Inspector in the proceedings of the Committee?",
+        "Can the Chief Inspector participate in Committee proceedings?",
+        "Is the Chief Inspector allowed to make decisions in the Committee?",
+        "How does the Chief Inspector's role differ in appeals or objections?",
+        "Is there a specific prohibition on the Chief Inspector's involvement?",
+        "What happens if the Chief Inspector is part of an appeal or objection case?",
+        "Are there any exceptions to the Chief Inspector's role in the Committee?",
+        "What is the significance of this provision in Section 13 of the Coal Act 1952?",
+        "How are conflicts of interest addressed when the Chief Inspector is involved?",
+        "Is there a mechanism for reporting concerns related to the Chief Inspector's role?",
+        "How does this provision ensure impartiality in the Committee's proceedings?",
+        "What role does the Chief Inspector play in the mining industry?",
+        "Can individuals or organizations appeal to the Chief Inspector?",
+        "Are there any legal regulations governing the Chief Inspector's involvement in the Committee?",
+        "How does this provision impact the functioning of the Committee?",
+        "What rights and protections are provided to parties involved in appeals or objections?",
+        "Can the Chief Inspector be called as a witness in Committee proceedings?",
+        "Are there any exceptions or special cases regarding the Chief Inspector's role?",
+        "What is the role of the Chairman in the Committee when the Chief Inspector is involved?",
+        "How does this provision ensure transparency and fairness in the Committee?",
+        "The Coal Act 1952 section-13 sub-section-2"
+      ],
+      "responses": [
+        "As per sub-section 2, section 13 of the Coal Act 1952, the Chief Inspector shall not take part in the proceedings of the Committee with respect to any appeal or objection against an order or notice made or issued by him or act in relation to any matter pertaining to such appeal or objection as a member of the Committee."
+      ]
+    },
+    {
+      "tag": "committee_powers_under_section_12_coal_act_1952_sec14",
+      "patterns": [
+        "What powers can a Committee constituted under Section 12 exercise?",
+        "Can a Committee exercise the powers of an Inspector under this Act?",
+        "What is the purpose of a Committee exercising Inspector powers?",
+        "How does a Committee decide which powers to exercise?",
+        "Is there a process for a Committee to request Inspector powers?",
+        "Are there limitations on the powers a Committee can exercise?",
+        "What are the functions of a Committee under the Coal Act of 1952?",
+        "How does a Committee contribute to the implementation of this Act?",
+        "Is there a mechanism for reporting concerns related to a Committee's exercise of powers?",
+        "What is the role of the Central Government in overseeing a Committee's powers?",
+        "Can individuals or organizations request specific actions from a Committee?",
+        "Are there any legal regulations governing a Committee's exercise of powers?",
+        "How does this provision impact the effectiveness of a Committee?",
+        "What rights and protections are provided to individuals affected by a Committee's actions?",
+        "Can a Committee delegate its powers to other entities or individuals?",
+        "Are there any exceptions or special cases regarding a Committee's exercise of powers?",
+        "What is the significance of this provision in Section 12 of the Coal Act of 1952?",
+        "What happens if there is a conflict between a Committee's actions and Inspector actions?",
+        "Is there a process for appealing or challenging a Committee's exercise of powers?",
+        "How does this provision ensure the Committee can fulfill its functions?",
+        "The Coal Act 1952 section-14 sub-section-1"
+      ],
+      "responses": [
+        "A Committee constituted under Section 12 may exercise such of the powers of an Inspector under this Act as it thinks necessary or expedient for the purposes of discharging its functions under the Coal Act of 1952."
+      ]
+    },
+    {
+      "tag": "committee_powers_under_section_14_coal_act_1952",
+      "patterns": [
+        "What powers does a Committee constituted under Section 12 have according to Section 14 of the Coal Act 1952?",
+        "Can you explain the powers granted to a Committee under Section 14?",
+        "What is the significance of Section 14 in relation to a Committee's powers?",
+        "How does Section 14 empower a Committee to discharge its functions?",
+        "What are the specific matters covered by Section 14 in terms of powers?",
+        "Is there a legal basis for a Committee to exercise these powers?",
+        "How does a Committee use its powers related to discovery and inspection?",
+        "Can a Committee enforce the attendance of individuals and examine them on oath?",
+        "What authority does a Committee have in compelling the production of documents?",
+        "Are there any limitations or restrictions on these powers?",
+        "Is there a process for invoking these powers by a Committee?",
+        "What is the Code of Civil Procedure, 1908 (5 of 1908), mentioned in Section 14?",
+        "How does Section 14 contribute to the Committee's effectiveness?",
+        "Is there a mechanism for reporting concerns related to a Committee's exercise of these powers?",
+        "What role does the Central Government play in overseeing the Committee's powers?",
+        "Can individuals or organizations request specific actions from a Committee based on these powers?",
+        "Are there any exceptions or special cases regarding the powers granted by Section 14?",
+        "How often are these powers invoked by Committees?",
+        "What is the purpose of granting these legal powers to Committees?",
+        "How does Section 14 ensure fairness and justice in the Committee's proceedings?",
+        "The Coal Act 1952 section-14 sub-section-2"
+      ],
+      "responses": [
+        "As per sub-section 2, Section 14 of the Coal Act 1952, a Committee constituted under Section 12 shall, for the purposes of discharging its functions, have the same powers as are vested in a court under the Code of Civil Procedure, 1908 (5 of 1908), when trying a suit in respect of the following matters: (a) discovery and inspection; (b) enforcing the attendance of any person and examining him on oath; (c) compelling the production of documents; and (d) such other matters as may be prescribed."
+      ]
+    },
+    
     {
       "tag": "funny",
       "patterns": [
