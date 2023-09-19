@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+@font-face{
+    font-family: myFont;
+    src:url(NotoSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: Logo;
+    src: url(Revamped.otf);
+}
+
+nav{
+    width: 100%;
+    height: 75px;
+    line-height: 75px;
+    padding: 0px 100px;
+    position: fixed;
+    background-image: linear-gradient(268.91deg, #9d4edd -2.14%, #7b2cbf 99.69%)/*linear-gradient(#415a77,#415a77)*/;
+}
+nav .logo p{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Logo;
+    float: left;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+}
+nav ul{
+    float: right;
+    font-family: myFont;
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+}
+nav li a{
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 0px 30px;
+    color: white;
+    text-decoration: none;
+}
+nav li a:hover{
+    color: #2e2c2a;
+    transition: all 0.4s ease 0s;
+}
+body {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 100%;
+    background: #ffffff;
+}
