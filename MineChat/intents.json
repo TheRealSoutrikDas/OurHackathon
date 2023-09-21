@@ -1462,7 +1462,1444 @@
         "As per sub-section 2, Section 14 of the Coal Act 1952, a Committee constituted under Section 12 shall, for the purposes of discharging its functions, have the same powers as are vested in a court under the Code of Civil Procedure, 1908 (5 of 1908), when trying a suit in respect of the following matters: (a) discovery and inspection; (b) enforcing the attendance of any person and examining him on oath; (c) compelling the production of documents; and (d) such other matters as may be prescribed."
       ]
     },
-    
+    {
+      "tag": "expense_recovery_for_committee_inquiry_under_section_15",
+      "patterns": [
+        "How are the expenses of an inquiry conducted by a Committee under Section 12 handled?",
+        "Can the Central Government direct the owner or agent to bear the expenses of the inquiry?",
+        "What factors determine whether the expenses are borne in whole or in part by the owner or agent?",
+        "Is there a process for calculating the expenses to be paid?",
+        "What happens if the owner or agent does not pay the directed amount?",
+        "How is the amount directed to be paid by the owner or agent recovered?",
+        "Is there a time limit for the owner or agent to make the payment?",
+        "What is the role of the Chief Inspector or an Inspector in this process?",
+        "Can the owner or agent dispute the expenses directed to be paid?",
+        "Is there a legal framework for this expense recovery process?",
+        "What is the purpose of the notice from the Central Government or the Chief Inspector?",
+        "Are there any exceptions or special cases regarding expense recovery?",
+        "How often does the Central Government direct expense recovery for Committee inquiries?",
+        "What rights and protections are provided to the owner or agent in this process?",
+        "What is the significance of Section 15 in relation to expense recovery?",
+        "What if the owner or agent cannot pay the directed amount within six weeks?",
+        "Is there an appeals process for the owner or agent?",
+        "What measures are taken to ensure a fair and transparent expense recovery process?",
+        "Can individuals or organizations request an inquiry by a Committee?",
+        "How does Section 15 contribute to accountability in mine operations?",
+        "The Coal Act 1952 section-15"
+      ],
+      "responses": [
+        "As per Section 15 of The Coal Act 1952, the Central Government may direct that the expenses of any inquiry conducted by a Committee constituted under Section 12 shall be borne in whole or in part by the owner or agent of the mine concerned. The amount directed to be paid may be recovered by the distress and sale of any movable property within the limits of the magistrate's jurisdiction belonging to such owner or agent. This is applicable if the owner or agent has not paid the amount within six weeks from the date of receiving the notice from the Central Government or the Chief Inspector of Mines."
+      ]
+    },
+    {
+      "tag": "notice_before_commencement_of_mining_operation_under_section_16",
+      "patterns": [
+        "What are the requirements for giving notice before the commencement of mining operations?",
+        "Who is responsible for providing notice before starting mining operations?",
+        "To whom should the notice be given before the mining operation commences?",
+        "Is there a specific form for the written notice, and what information should it contain?",
+        "What is the purpose of notifying the Chief Inspector, the Controller, Indian Bureau of Mines, and the district magistrate?",
+        "When should the notice be given in relation to the commencement of mining operations?",
+        "What happens if the notice is not provided before commencing mining operations?",
+        "Are there any exceptions to this notice requirement?",
+        "Is there a specific process or channel for submitting the written notice?",
+        "Is there a legal framework or regulations governing this notice requirement?",
+        "How does this notice requirement contribute to safety and compliance in mining?",
+        "Can individuals or organizations request guidance on the notice format and content?",
+        "What role does the Chief Inspector play in relation to this notice?",
+        "What is the significance of Section 16 in the Coal Act 1952?",
+        "Is there a time frame for providing the notice before commencing mining operations?",
+        "Are there penalties for failing to provide the required notice?",
+        "Is there a mechanism for follow-up or verification after the notice is provided?",
+        "Can the notice be modified or updated if there are changes in the mining operation?",
+        "Are there any rights or protections for the owner, agent, or manager related to this notice requirement?",
+        "How often is this notice requirement enforced in mining operations?",
+        "The Coal Act 1952 section-16 sub-section-1",
+        "To whom is the notice supposed to be given? ",
+        "Who Should give the notice?"
+        
+      ],
+      "responses": [
+        "As per sub-section 1, Section 16 of the Coal Act 1952, the owner, agent, or manager of a mine shall, before the commencement of any mining operation, give notice in writing to the Chief Inspector, the Controller, Indian Bureau of Mines, and the district magistrate of the district in which the mine is situated. The notice should be in such form and contain such particulars relating to the mine as may be prescribed."
+      ]
+    },
+    {
+      "tag": "notice_timing_under_section_16",
+      "patterns": [
+        "What is the timing requirement for giving notice before the commencement of mining operations?",
+        "How much advance notice is required before starting mining operations?",
+        "Is there a specific timeline for providing the notice?",
+        "When should the notice be given to reach the concerned persons?",
+        "What happens if the notice is given less than one month before mining operations begin?",
+        "Are there any exceptions to the one-month notice requirement?",
+        "Can the notice be provided earlier than one month before mining operations?",
+        "Is there a specific date from which the one-month notice period is calculated?",
+        "What is the purpose of the one-month notice requirement?",
+        "Is there a process for verifying that the notice has reached the concerned persons?",
+        "How does this notice timing contribute to safety and preparedness in mining operations?",
+        "Can individuals or organizations request an extension of the notice period?",
+        "What rights or protections are provided to the persons concerned regarding the notice?",
+        "Is there a legal framework or regulations specifying the notice timing?",
+        "How often is this notice timing requirement enforced in mining operations?",
+        "What is the significance of Section 16, sub-section 2, in the Coal Act 1952?",
+        "How does this provision ensure adequate planning and coordination for mining operations?",
+        "Are there any penalties for failing to provide timely notice?",
+        "Can the one-month notice period be modified or shortened under certain circumstances?",
+        "Is there a mechanism for addressing disputes or concerns related to the notice timing?",
+        "When Should the notice be given?",
+        "By When Should the notice reach the reciever?",
+        "The Coal Act 1952 section-16 sub-section-2"
+      ],
+      "responses": [
+        "As per sub-section 2, Section 16 of the Coal Act 1952, any notice given under sub-section (1) of section 16 shall be given in such a way that it reaches the persons concerned at least one month before the commencement of any mining operation."
+      ]
+    },
+    {
+      "tag": "manager_qualification_and_appointment_under_section_17",
+      "patterns": [
+        "What are the qualifications required for a manager of a mine under Section 17?",
+        "Who is responsible for appointing the manager of a mine?",
+        "Is there a specific process for appointing a manager with the required qualifications?",
+        "Can the owner or agent of the mine appoint themselves as the manager?",
+        "What are the prescribed qualifications for a mine manager?",
+        "Are there exceptions to the requirement for a sole manager?",
+        "How does this provision ensure the safety and competence of mine managers?",
+        "Is there a legal framework or regulations governing the appointment of mine managers?",
+        "Can individuals or organizations request guidance on manager qualifications?",
+        "What is the significance of Section 17 in relation to mine management?",
+        "Are there any rights or protections for individuals appointed as mine managers?",
+        "Is there a process for verifying the qualifications of appointed mine managers?",
+        "How often are mine managers appointed or replaced?",
+        "What happens if a mine does not have a qualified manager?",
+        "Is there a mechanism for reporting concerns related to manager qualifications?",
+        "How does this provision contribute to the efficient operation of mines?",
+        "Can a manager be appointed temporarily while a qualified manager is sought?",
+        "Is there a time frame for appointing a qualified manager after mine operations commence?",
+        "Can the owner or agent appoint someone else to manage the mine on their behalf?",
+        "What qualifications are typically prescribed for mine managers?",
+        "The Coal Act 1952 section-17 sub-section-1"
+      ],
+      "responses": [
+        "As per sub-section 1, Section 17 of the Coal Act 1952, every mine shall be under a sole manager who shall have the prescribed qualification. The owner or agent of every mine shall appoint a person having such qualification to be the manager. However, the owner or agent may appoint themselves as the manager if they possess the prescribed qualifications."
+      ]
+    },
+    {
+      "tag": "manager_responsibilities_under_section_17_subsection_2",
+      "patterns": [
+        "What are the responsibilities of a mine manager under Section 17, sub-section 2?",
+        "How does the manager's role differ from the owner or agent's role in mine management?",
+        "Is the manager solely responsible for the overall management of the mine?",
+        "Are there any specific duties or tasks that the manager must perform?",
+        "Can the owner or agent provide instructions to the manager?",
+        "Is there a requirement for written confirmation of instructions from the owner or agent?",
+        "What happens if the manager receives conflicting instructions?",
+        "Is there a mechanism for resolving disputes between the manager and the owner or agent?",
+        "How does this provision ensure effective management and control of the mine?",
+        "Is there a legal framework or regulations governing the manager's responsibilities?",
+        "What rights or protections are provided to the manager in performing their duties?",
+        "Can individuals or organizations request clarification on the manager's role?",
+        "What is the significance of Section 17, sub-section 2, in mine management?",
+        "Is the manager accountable for the safety and operation of the mine?",
+        "How often are instructions from the owner or agent provided to the manager?",
+        "Is there a process for documenting instructions and decisions in mine management?",
+        "Can the manager delegate responsibilities to other individuals in the mine?",
+        "What happens if the manager believes that certain instructions are unsafe or against regulations?",
+        "Can the manager request additional resources or support for mine management?",
+        "Are there any limitations on the manager's authority in mine management?",
+        "The Coal Act 1952 section-17 sub-section-2"
+      ],
+      "responses": [
+        "As per sub-section 2, Section 17 of the Coal Act 1952, subject to any instructions given to him by or on behalf of the owner or agent of the mine, the manager shall be responsible for the overall management, control, supervision, and direction of the mine. All instructions when given by the owner or agent shall be confirmed in writing forthwith."
+      ]
+    },
+    {
+      "tag": "instructions_to_mine_employees_under_section_17_subsection_3",
+      "patterns": [
+        "How are instructions given to mine employees according to Section 17, sub-section 3?",
+        "Are there any restrictions on who can give instructions to mine employees?",
+        "Is it permissible for the owner or agent to give instructions directly to mine employees?",
+        "Under what circumstances can the owner or agent give instructions to mine employees?",
+        "What constitutes an emergency that allows direct instructions to mine employees?",
+        "Is there a process for defining and handling emergencies in mining operations?",
+        "What are the statutory duties of mine employees mentioned in this sub-section?",
+        "Can instructions affecting statutory duties be given through the manager?",
+        "How does this provision contribute to the safety and efficiency of mining operations?",
+        "Is there a legal framework or regulations governing the giving of instructions to mine employees?",
+        "What rights or protections are provided to mine employees in this context?",
+        "Can individuals or organizations request clarification on the process of giving instructions?",
+        "What is the significance of Section 17, sub-section 3, in mine operations?",
+        "Is there a mechanism for reporting concerns related to instructions given to mine employees?",
+        "How often do situations arise where the owner or agent needs to give direct instructions?",
+        "Is there a process for documenting and tracking instructions given to mine employees?",
+        "What happens if an owner or agent violates this sub-section?",
+        "Can the manager refuse to relay certain instructions to mine employees?",
+        "Is there a time frame for confirming instructions through the manager?",
+        "Can mine employees seek clarification or guidance if they receive conflicting instructions?",
+        "The Coal Act 1952 section-17 sub-section-3"
+      ],
+      "responses": [
+        "As per sub-section 3, Section 17 of the Coal Act 1952, except in case of an emergency, the owner or agent of a mine or anyone on his behalf shall not give, otherwise than through the manager, instructions affecting the fulfillment of his statutory duties, to a person employed in a mine who is responsible to the manager."
+      ]
+    },
+    {
+      "tag": "responsibilities_for_compliance_under_section_17_subsection_3",
+      "patterns": [
+        "What are the responsibilities of the owner and agent in relation to compliance with Section 17, sub-section 3?",
+        "Is compliance with sub-section 3, Section 17, the sole responsibility of the owner and agent?",
+        "What financial provisions are required for compliance with the sub-section 3 of Section 17?",
+        "Are there any specific steps or actions that the owner and agent must take for compliance?",
+        "Is there a process for ensuring compliance with regulations, rules, bye-laws, and orders?",
+        "How does this provision contribute to safety and accountability in mine operations?",
+        "Is there a legal framework or regulations specifying the responsibilities for compliance?",
+        "What rights or protections are provided to the owner and agent in fulfilling these responsibilities?",
+        "Can individuals or organizations request guidance on compliance requirements?",
+        "What is the significance of Section 17, sub-section 3, in mine management and compliance?",
+        "Is there a mechanism for reporting concerns or issues related to compliance?",
+        "How often are these responsibilities for compliance enforced in mine operations?",
+        "Is there a process for documenting and reporting on compliance efforts?",
+        "What happens if the owner and agent fail to fulfill these responsibilities?",
+        "Is there a time frame for taking the necessary steps for compliance?",
+        "Can the owner and agent delegate compliance responsibilities to others?",
+        "Are there penalties for non-compliance with sub-section 3, Section 17?",
+        "Can the owner and agent seek assistance or resources for compliance?",
+        "What role does compliance play in ensuring the safety and well-being of mine employees?",
+        "Is there a process for addressing disputes or challenges related to compliance?",
+        "What are the responsibilities of the owner and agent regarding compliance with the Coal Act 1952?",
+        "Are there specific financial provisions that the owner and agent must make?",
+        "What other steps are necessary for compliance with the Coal Act 1952 and related regulations?",
+        "Can you provide examples of financial provisions and other necessary steps for compliance?",
+        "Is there a process for ensuring compliance with regulations, rules, bye-laws, and orders?",
+        "How does this provision contribute to safety and accountability in mine operations?",
+        "Is there a legal framework or specific regulations that outline these responsibilities?",
+        "Are there any rights or protections provided to the owner and agent in fulfilling these responsibilities?",
+        "Can individuals or organizations request guidance on compliance requirements?",
+        "What is the significance of this provision in the Coal Act 1952?",
+        "Is there a mechanism for reporting concerns or issues related to compliance and provisions?",
+        "How often are these responsibilities for compliance enforced in mine operations?",
+        "Is there a process for documenting and reporting on compliance efforts?",
+        "What happens if the owner and agent fail to fulfill these responsibilities?",
+        "Is there a time frame for taking the necessary steps and making financial provisions?",
+        "Can the owner and agent delegate these responsibilities to others?",
+        "Are there penalties for non-compliance with the Coal Act 1952 and related regulations?",
+        "Can the owner and agent seek assistance or resources for compliance?",
+        "What role does compliance play in ensuring the safety and well-being of mine employees?",
+        "Is there a process for addressing disputes or challenges related to compliance?",
+        "The Coal Act 1952 section-18 sub-section-1"
+      ],
+      "responses": [
+        "As per the provisions of sub-section 3, Section 17 of the Coal Act 1952, the owner and agent of every mine shall each be responsible for making financial and other provisions and for taking such other steps as may be necessary for compliance with the provisions of the sub-section 3, Section 17, and the regulations, rules, bye-laws, and orders made thereunder."
+      ]
+    },
+    {
+      "tag": "responsibility_for_matters_under_rules_in_coal_act_1952_subsection_2_section_18",
+      "patterns": [
+        "What responsibilities are outlined in sub-section 2, Section 18 of the Coal Act 1952?",
+        "Can you specify the matters provided for in the rules under clauses (d), (e), and (p) of section 58?",
+        "Who is exclusively responsible for carrying out these responsibilities according to this sub-section?",
+        "Is there any delegation of responsibilities mentioned in this provision?",
+        "What is the role of the owner and agent in securing compliance with these provisions?",
+        "Are there specific rules or regulations referenced in this sub-section?",
+        "How does this provision contribute to safety and compliance in mining operations?",
+        "Is there a legal framework or specific regulations governing these responsibilities?",
+        "What rights or protections are provided to individuals appointed for securing compliance?",
+        "Can individuals or organizations request clarification on these responsibilities?",
+        "What is the significance of this provision in the Coal Act 1952?",
+        "Is there a mechanism for reporting concerns or issues related to these responsibilities?",
+        "Are these responsibilities regularly monitored and enforced?",
+        "Is there a process for documenting compliance efforts related to these responsibilities?",
+        "What happens if the owner or agent fails to fulfill these responsibilities?",
+        "Is there a time frame for carrying out these responsibilities?",
+        "Can the owner or agent appoint multiple individuals for securing compliance?",
+        "Are there penalties for non-compliance with the provisions outlined in this sub-section?",
+        "Is there a mechanism for addressing disputes or challenges related to these responsibilities?",
+        "Can individuals appointed for securing compliance request additional resources or support?",
+        "The Coal Act 1952 section-18 sub-section-2"
+      ],
+      "responses": [
+        "According to sub-section 2, Section 18 of the Coal Act 1952, the responsibility in respect of matters provided for in the rules made under clauses (d), (e), and (p) of section 58 shall be exclusively carried out by the owner and agent of the mine and by such person (other than the manager) whom the owner or agent may appoint for securing compliance with the aforesaid provisions."
+      ]
+    },
+    {
+      "tag": "liability_for_instructions_under_coal_act_1952_subsection_3_section_18",
+      "patterns": [
+        "What does sub-section 3, Section 18 of the Coal Act 1952 state regarding liability for instructions?",
+        "Can you explain the consequences of instructions given under this sub-section?",
+        "What are the conditions under which instructions may result in contravention of the provisions?",
+        "Who is held liable if instructions given under sub-section 2 or otherwise contravene the Act or regulations?",
+        "Is there a process for determining whether instructions have led to contravention?",
+        "Are there any exceptions or defenses for individuals giving instructions?",
+        "How does this provision contribute to accountability in mine operations?",
+        "Is there a legal framework or specific regulations referenced in this sub-section?",
+        "What rights or protections are provided to individuals giving instructions?",
+        "Can individuals or organizations request clarification on liability in this context?",
+        "What is the significance of this liability provision in the Coal Act 1952?",
+        "Is there a mechanism for reporting concerns or issues related to instructions and liability?",
+        "Is liability for contravention regularly enforced?",
+        "Is there a process for documenting and investigating instances of contravention?",
+        "What are the potential penalties for individuals held liable for contravention?",
+        "Is there a time frame for determining liability in such cases?",
+        "Can the manager be held liable for instructions given otherwise than through him?",
+        "Are there opportunities for individuals giving instructions to dispute allegations of contravention?",
+        "Can individuals seek legal counsel or assistance in cases of liability?",
+        "What role does this provision play in ensuring compliance with the Coal Act 1952 and related regulations?",
+        "The Coal Act 1952 section-18 sub-section-3"
+      ],
+      "responses": [
+        "According to sub-section 3, Section 18 of the Coal Act 1952, if the carrying out of any instructions given under sub-section (2) or given otherwise than through the manager under sub-section (3) of section 17 results in the contravention of the provisions of this Act or of the regulations, rules, bye-laws, or orders made thereunder, every person giving such instructions shall also be liable for the contravention of the provisions concerned."
+      ]
+    },
+    {
+      "tag": "responsibility_for_operations_under_coal_act_1952_subsection_4_section_18",
+      "patterns": [
+        "What are the responsibilities outlined in sub-section 4, Section 18 of the Coal Act 1952?",
+        "Can you explain the duties of the owner, agent, and manager with regard to mine operations?",
+        "Are there specific provisions in this sub-section regarding compliance?",
+        "How do sub-sections (1), (2), and (3) affect these responsibilities?",
+        "Is there a process for ensuring that operations are conducted in accordance with the Act and regulations?",
+        "What role does this provision play in ensuring safety and compliance in mining operations?",
+        "Are there any specific legal requirements or regulations referenced in this sub-section?",
+        "Are there rights or protections provided to the owner, agent, and manager in fulfilling these responsibilities?",
+        "Can individuals or organizations seek guidance on how to fulfill these duties?",
+        "What is the significance of this responsibility provision in the Coal Act 1952?",
+        "Is there a mechanism for reporting concerns or issues related to mine operations and compliance?",
+        "Is the enforcement of these responsibilities regular and consistent?",
+        "Is there a process for documenting and reporting on compliance efforts related to operations?",
+        "What happens if the owner, agent, or manager fails to fulfill these responsibilities?",
+        "Is there a specified time frame for carrying out these responsibilities?",
+        "Can the owner, agent, or manager delegate these responsibilities to others?",
+        "Are there penalties for non-compliance with the provisions outlined in this sub-section?",
+        "Is there a mechanism for addressing disputes or challenges related to these responsibilities?",
+        "Can individuals appointed to oversee operations request additional resources or support?",
+        "How does this provision contribute to the overall safety and well-being of mine employees?",
+        "The Coal Act 1952 section-18 sub-section-4"
+      ],
+      "responses": [
+        "As per sub-section 4, Section 18 of the Coal Act 1952, subject to the provisions of sub-sections (1), (2), and (3), the owner, agent, and manager of every mine shall each be responsible to see that all operations carried on in connection with the mine are conducted in accordance with the provisions of this Act and of the regulations, rules, bye-laws, and orders made thereunder."
+      ]
+    },
+    {
+      "tag": "liability_for_contravention_under_coal_act_1952_subsection_5_section_18",
+      "patterns": [
+        "What does sub-section 5, Section 18 of the Coal Act 1952 state regarding liability for contravention?",
+        "Who may be deemed guilty of contravention under this provision?",
+        "Are there specific conditions or exceptions outlined in this sub-section?",
+        "What is the role of due diligence and reasonable means in preventing contraventions?",
+        "Is there a legal framework or specific regulations referenced in this sub-section?",
+        "How does this provision contribute to accountability for contraventions?",
+        "What rights or protections are provided to individuals against whom contravention is alleged?",
+        "Can individuals or organizations request clarification on liability in this context?",
+        "What is the significance of this liability provision in the Coal Act 1952?",
+        "Is there a mechanism for reporting concerns or issues related to contraventions?",
+        "Is the enforcement of liability for contravention regular and consistent?",
+        "Is there a process for documenting and investigating instances of contravention?",
+        "What are the potential penalties for individuals deemed guilty of contravention?",
+        "Is there a specified time frame for determining liability in such cases?",
+        "Can individuals held liable for contravention dispute allegations?",
+        "Can individuals seek legal counsel or assistance in cases of liability?",
+        "How does this provision balance accountability and fairness?",
+        "What role do officials appointed for supervision play in this liability?",
+        "Is there a process for determining prima facie liability in inquiries and investigations?",
+        "Can individuals or organizations challenge the determination of prima facie liability?",
+        "The Coal Act 1952 section-18 sub-section-5"
+      ],
+      "responses": [
+        "As per sub-section 5, Section 18 of the Coal Act 1952, in the event of any contravention by any person whosoever of any of the provisions of this Act or of the regulations, rules, bye-laws, or orders made thereunder, except those which specifically require any person to do any act or thing or prohibit any person from doing an act or thing, besides the person who contravenes, each of the following persons shall also be deemed to be guilty of such contravention unless he proves that he had used due diligence to secure compliance with the provisions and had taken reasonable means to prevent such contravention:\n(i) the official or officials appointed to perform duties of supervision in respect of the provisions contravened;\n(ii) the manager of the mine;\n(iii) the owner and agent of the mine;\n(iv) the person appointed, if any, to carry out the responsibility under sub-section (2):\nProvided that any of the persons aforesaid may not be proceeded against if it appears on inquiry and investigation that he is not prima facie liable."
+      ]
+    },
+    {
+      "tag": "no_defence_for_owner_agent_in_coal_act_1952_subsection_6_section_18",
+      "patterns": [
+        "What does sub-section 6, Section 18 of the Coal Act 1952 state regarding a defence for the owner or agent?",
+        "Is there a provision that can be used as a defence in proceedings against the owner or agent?",
+        "What factors are considered in proceedings related to the owner or agent?",
+        "Are there exceptions or conditions under which a defence may be valid?",
+        "Is the appointment of a manager or other officials relevant to this provision?",
+        "How does this provision affect the liability of the owner or agent?",
+        "Is there a legal framework or specific regulations referenced in this sub-section?",
+        "What rights or protections are provided to the owner or agent in such proceedings?",
+        "Can individuals or organizations challenge the applicability of this provision?",
+        "What is the significance of this no-defence provision in the Coal Act 1952?",
+        "Is there a mechanism for addressing disputes or challenges related to this provision?",
+        "Can individuals seek legal counsel or assistance in cases where no defence is allowed?",
+        "How does this provision balance accountability and responsibility?",
+        "What role does the appointment of officials play in proceedings against the owner or agent?",
+        "Are there penalties or consequences outlined in this sub-section?",
+        "Is there a specified process for conducting proceedings against the owner or agent?",
+        "Can individuals or organizations appeal decisions made under this provision?",
+        "Is there a timeframe for initiating proceedings under this sub-section?",
+        "What considerations are taken into account in determining liability in such proceedings?",
+        "Can the owner or agent dispute the allegations made in proceedings?",
+        "The Coal Act 1952 section-18 sub-section-6"
+      ],
+      "responses": [
+        "As per sub-section 6, Section 18 of the Coal Act 1952, it shall not be a defence in any proceedings brought against the owner or agent of a mine under this section that the manager and other officials have been appointed in accordance with the provisions of this Act or that a person to carry the responsibility under sub-section (2) has been appointed."
+      ]
+    },
+    {
+      "tag": "provision_of_drinking_water_in_mines",
+      "patterns": [
+        "What are the requirements for providing drinking water in mines?",
+        "Is there a specific provision for ensuring access to drinking water in mines?",
+        "Who is responsible for making arrangements for drinking water in mines?",
+        "Are there guidelines for the placement of drinking water points in mines?",
+        "What is the Chief Inspector's role in regulating drinking water provisions?",
+        "Can you explain the importance of providing cool and wholesome drinking water in mines?",
+        "Is there a minimum standard for the sufficiency of drinking water supply?",
+        "What constitutes 'effective arrangements' for providing drinking water?",
+        "Are there exceptions or special provisions for persons employed below ground?",
+        "What types of 'effective arrangements' may be permitted for those below ground?",
+        "Is there a process for monitoring and enforcing the provision of drinking water in mines?",
+        "Are there penalties or consequences for non-compliance with this provision?",
+        "Is there a timeframe for ensuring the availability of drinking water in mines?",
+        "Can individuals or organizations request assistance in implementing these arrangements?",
+        "How does this provision contribute to the well-being of mine employees?",
+        "Are there regulations or additional guidelines related to drinking water provisions?",
+        "Is there a mechanism for reporting concerns or issues related to drinking water supply in mines?",
+        "Is the compliance with this provision regularly monitored by authorities?",
+        "What are the potential health and safety risks associated with inadequate drinking water in mines?",
+        "Are there any provisions for testing the quality of drinking water in mines?",
+        "Can individuals or organizations seek guidance on how to comply with this provision?",
+        "The Coal Act 1952 section-19 sub-section-1",
+        "The Coal Act 1952 section 19 sub-section 1"
+      ],
+      "responses": [
+        "In every mine, effective arrangements shall be made to provide and maintain at suitable points conveniently situated a sufficient supply of cool and wholesome drinking water for all persons employed therein. Provided that in the case of persons employed below ground, the Chief Inspector may, in lieu of drinking water being provided and maintained at suitable points, permit any other effective arrangements to be made for such supply."
+      ]
+    },
+    {
+      "tag": "marking_and_distance_requirements_for_drinking_water_points_in_mines",
+      "patterns": [
+        "What are the marking requirements for drinking water points in mines?",
+        "Is there a specific language requirement for marking such points?",
+        "Who determines the language to be used for marking?",
+        "Are there restrictions on the proximity of drinking water points to certain facilities?",
+        "What is the acceptable distance between drinking water points and washing places, urinals, or latrines?",
+        "Is there a process for obtaining approval from the Chief Inspector for a shorter distance?",
+        "How is compliance with the marking and distance requirements enforced?",
+        "Can individuals or organizations request guidance on marking and distance compliance?",
+        "What is the significance of legibly marked drinking water points in mines?",
+        "Are there penalties for non-compliance with these requirements?",
+        "Is there a specified timeframe for implementing these marking and distance provisions?",
+        "What are the potential consequences of not adhering to the approved distances?",
+        "How does this provision contribute to the well-being and safety of mine employees?",
+        "Are there any exceptions or special circumstances where these requirements may be waived?",
+        "Is there a mechanism for reporting concerns or issues related to compliance with these provisions?",
+        "Is the compliance with marking and distance requirements regularly monitored by authorities?",
+        "Are there any recommended practices for maintaining and inspecting drinking water points?",
+        "Can individuals or organizations seek assistance in meeting these marking and distance requirements?",
+        "Is there a process for translating the marking into languages understood by the majority of employees?",
+        "What is the role of the Chief Inspector in overseeing these requirements?",
+        "The Coal Act 1952 section-19 sub-section-2",
+        "The Coal Act 1952 section 19 sub-section 2"
+      ],
+      "responses": [
+        "All such points shall be legibly marked 'DRINKING WATER' in a language understood by a majority of the persons employed in the mine, and no such point shall be situated within six meters of any washing place, urinal, or latrine unless a shorter distance is approved in writing by the Chief Inspector."
+      ]
+    },
+    {
+      "tag": "provision_of_latrines_and_urinals_in_mines",
+      "patterns": [
+        "How many latrines and urinals must be provided separately for males and females in mines?",
+        "What types of latrines and urinals are prescribed for mines?",
+        "Why is it important to have convenient and accessible latrines and urinals in mines?",
+        "Is there a specific authority responsible for ensuring compliance with latrine and urinal provisions?",
+        "Are there exceptions for different types of mines regarding latrines and urinals?",
+        "Is there a process for reporting concerns or issues related to these facilities in mines?",
+        "How does providing such facilities contribute to the well-being of mine employees?",
+        "Are there penalties for not providing the required number of latrines and urinals?",
+        "Can individuals or organizations seek guidance on complying with these provisions?",
+        "What is the historical context behind these provisions in mine safety?",
+        "The Coal Act 1952 section-20 sub-section-1",
+        "The Coal Act 1952 section 20 sub-section 1"
+      ],
+      "responses": [
+        "There shall be provided, separately for males and females in every mine, a sufficient number of latrines and urinals of prescribed types so situated as to be convenient and accessible to persons employed in the mine at all times."
+      ]
+    },
+    {
+      "tag": "maintenance_of_latrines_and_urinals_in_mines",
+      "patterns": [
+        "How should the latrines and urinals provided in mines be maintained?",
+        "What are the requirements for adequate lighting and ventilation in these facilities?",
+        "Who is responsible for ensuring that latrines and urinals are clean and sanitary?",
+        "Are there penalties for not maintaining latrines and urinals in a clean and sanitary condition?",
+        "Is there a process for reporting unsanitary conditions in these facilities?",
+        "What measures are in place to monitor the cleanliness of these facilities?",
+        "Can individuals or organizations seek assistance in maintaining these facilities?",
+        "What role does the maintenance of these facilities play in mine safety?",
+        "Are there any additional regulations or guidelines related to the maintenance of these facilities?",
+        "Why is it crucial to keep these facilities well-maintained in mines?",
+        "The Coal Act 1952 section-20 sub-section-2",
+        "The Coal Act 1952 section 20 sub-section 2"
+      ],
+      "responses": [
+        "All latrines and urinals provided under sub-section (1) shall be adequately lighted, ventilated, and at all times maintained in a clean and sanitary condition."
+      ]
+    },
+    {
+      "tag": "central_government_specifications_for_latrines_and_urinals_in_mines",
+      "patterns": [
+        "How does the Central Government specify the number of latrines and urinals for mines?",
+        "What factors are considered when determining the number of facilities required?",
+        "Are there regulations that outline the Central Government's specifications for sanitation in mines?",
+        "What obligations do mine employees have regarding sanitation?",
+        "Can the Central Government make additional provisions for sanitation in mines?",
+        "What is the purpose of these specifications in ensuring the health of mine employees?",
+        "Is there a process for individuals or organizations to provide input on these specifications?",
+        "Is there a historical background to these specifications in mine safety?",
+        "How does the Central Government enforce compliance with these specifications?",
+        "Are there penalties for non-compliance with the Central Government's specifications for sanitation in mines?",
+        "The Coal Act 1952 section-20 sub-section-3",
+        "The Coal Act 1952 section 20 sub-section 3"
+      ],
+      "responses": [
+        "The Central Government may specify the number of latrines and urinals to be provided in any mine, in proportion to the number of males and females employed in the mine, and provide for such other matters in respect of sanitation in mines (including the obligations in this regard of persons employed in the mine) as it may consider necessary in the interests of the health of the persons so employed."
+      ]
+    },
+    {
+      "tag": "medical_appliances_in_mines_subsection1",
+      "patterns": [
+        "How many first-aid boxes are required in a mine?",
+        "What should be included in the contents of a first-aid box?",
+        "Is there a specific location where first-aid boxes should be placed in a mine?",
+        "Who is responsible for ensuring the availability of first-aid boxes in mines?",
+        "Are there any regulations regarding the maintenance of first-aid boxes?",
+        "What is the purpose of having readily accessible first-aid boxes in mines?",
+        "Can individuals or organizations request guidance on first-aid box requirements?",
+        "What is the historical context of these provisions in mine safety?",
+        "The Coal Act 1952 section-21 sub-section-1",
+        "The Coal Act 1952 section 21 sub-section 1"
+      ],
+      "responses": [
+        "In every mine, there shall be provided and maintained a specified number of first-aid boxes or cupboards equipped with prescribed contents, readily accessible during all working hours."
+      ]
+    },
+    {
+      "tag": "medical_appliances_in_mines_subsection2",
+      "patterns": [
+        "What items are allowed inside a first-aid box in mines?",
+        "Are there any restrictions on what can be kept in a first-aid box?",
+        "Can additional items be included in a first-aid box if necessary?",
+        "Is it mandatory to follow the prescribed contents for first-aid boxes?",
+        "Are there penalties for keeping unauthorized items in a first-aid box?",
+        "How are the contents of first-aid boxes regulated?",
+        "Is there a process for reporting issues with the contents of first-aid boxes?",
+        "What is the significance of keeping first-aid boxes well-stocked and organized in mines?",
+        "Are there historical examples of the importance of adhering to these regulations?",
+        "Who ensures compliance with the contents of first-aid boxes in mines?",
+        "The Coal Act 1952 section-21 sub-section-2",
+        "The Coal Act 1952 section 21 sub-section 2"
+      ],
+      "responses": [
+        "Nothing except the prescribed contents shall be kept in a first-aid box or cupboard or room."
+      ]
+    },
+    {
+      "tag": "medical_appliances_in_mines_subsection3",
+      "patterns": [
+        "Who is responsible for the first-aid boxes in mines?",
+        "What qualifications or training does the person in charge of first-aid boxes need?",
+        "Is the responsible person required to be available at all times during working hours?",
+        "Are there any specific duties assigned to the person in charge of first-aid boxes?",
+        "Can individuals or organizations seek guidance on appointing responsible persons?",
+        "Is there a process for reporting concerns about the person in charge of first-aid boxes?",
+        "Why is it important to have trained personnel responsible for first-aid boxes?",
+        "Are there any historical incidents related to the role of responsible persons in mine safety?",
+        "How does the responsible person contribute to mine safety?",
+        "The Coal Act 1952 section-21 sub-section-3",
+        "The Coal Act 1952 section 21 sub-section 3"
+      ],
+      "responses": [
+        "Every first-aid box or cupboard shall be kept in the charge of a responsible person who is trained in such first-aid treatment as may be prescribed and who shall always be readily available during the working hours of the mine."
+      ]
+    },
+    {
+      "tag": "medical_appliances_in_mines_subsection4",
+      "patterns": [
+        "What arrangements are made for transporting injured or ill mine workers to hospitals?",
+        "Who is responsible for organizing the conveyance of injured or ill workers to hospitals?",
+        "Are there specific protocols for responding to injuries or illnesses in mines?",
+        "Is there a process for requesting emergency medical assistance in mines?",
+        "Are there penalties for not providing suitable arrangements for medical transport?",
+        "What is the significance of having quick access to medical facilities in mines?",
+        "Are there historical examples of the importance of timely medical transport in mines?",
+        "How does the availability of medical transport contribute to mine safety?",
+        "What measures are in place to ensure the efficiency of medical transport in mines?",
+        "Can individuals or organizations seek assistance in implementing medical transport arrangements?",
+        "The Coal Act 1952 section-21 sub-section-4",
+        "The Coal Act 1952 section 21 sub-section 4"
+      ],
+      "responses": [
+        "In every mine, there shall be made so as to be readily available such arrangements as may be prescribed for the conveyance to hospitals or dispensaries of persons who, while employed in the mine, suffer bodily injury or become ill."
+      ]
+    },
+    {
+      "tag": "medical_appliances_in_mines_subsection5",
+      "patterns": [
+        "What are the requirements for a first-aid room in larger mines?",
+        "How is the size and equipment of a first-aid room determined?",
+        "Who is responsible for staffing the first-aid room in larger mines?",
+        "Is there a specific medical and nursing staff requirement for first-aid rooms?",
+        "Are there penalties for not providing a first-aid room in larger mines?",
+        "Can individuals or organizations seek guidance on setting up a first-aid room?",
+        "What is the historical context behind the establishment of first-aid rooms in mines?",
+        "How does having a first-aid room benefit the safety of mine workers?",
+        "What are the prescribed equipment and staff qualifications for a first-aid room?",
+        "Is there a minimum number of employees that triggers the requirement for a first-aid room in a mine?",
+        "The Coal Act 1952 section-21 sub-section-5",
+        "The Coal Act 1952 section 21 sub-section 5"
+      ],
+      "responses": [
+        "In every mine wherein more than one hundred and fifty persons are employed, there shall be provided and maintained a first-aid room of such size with such equipment and in the charge of such medical and nursing staff as may be prescribed."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection1",
+      "patterns": [
+        "What should be done if a mine or its practices are considered dangerous?",
+        "Who can issue a notice regarding dangerous practices in a mine?",
+        "What happens if a mine is deemed to be unsafe?",
+        "How are the particulars of a dangerous mine communicated to the owner?",
+        "What is the purpose of specifying the time and manner for remedy?",
+        "Can the owner, agent, or manager appeal such notices?",
+        "Are there historical examples of mines being labeled as dangerous?",
+        "Who oversees the safety of mines in general?",
+        "What is the significance of safety notices in mining?",
+        "How does this provision contribute to mine safety?",
+        "The Coal Act 1952 section-22 sub-section-1",
+        "The Coal Act 1952 section 22 sub-section 1"
+      ],
+      "responses": [
+        "If a mine or any matter related to it is considered dangerous or defective, the Chief Inspector or an Inspector may issue a notice to the owner, agent, or manager to remedy the situation within a specified time."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection1A",
+      "patterns": [
+        "What happens if the owner fails to comply with a notice?",
+        "Who can prohibit the employment of certain individuals in a mine?",
+        "What is the purpose of prohibiting employment in a mine?",
+        "Is there a process for lifting such prohibitions?",
+        "Are there penalties for non-compliance with safety notices?",
+        "Who determines whether an employee's work is necessary for safety?",
+        "How does this provision safeguard mine workers?",
+        "Can individuals or organizations seek guidance in these matters?",
+        "Are there historical examples of safety-related work prohibitions?",
+        "What role does the Chief Inspector or Inspector play in this?",
+        "The Coal Act 1952 section-22 sub-section-1A",
+        "The Coal Act 1952 section 22 sub-section 1A"
+      ],
+      "responses": [
+        "If the owner, agent, or manager fails to comply with a notice issued under sub-section (1), the Chief Inspector or Inspector can prohibit the employment of individuals not reasonably necessary for safety."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection2",
+      "patterns": [
+        "Under what circumstances can the extraction of minerals be prohibited?",
+        "Who can issue an order to prohibit mineral extraction?",
+        "What is the objective of prohibiting mineral extraction?",
+        "Are there conditions under which extraction can resume?",
+        "How does this provision ensure mine safety?",
+        "Is there historical data illustrating the importance of this provision?",
+        "Can individuals or organizations seek guidance on mineral extraction safety?",
+        "What does 'adequate provision' for fire or flooding entail?",
+        "What is the role of the Chief Inspector or Inspector in this context?",
+        "How does this provision contribute to mine safety?",
+        "The Coal Act 1952 section-22 sub-section-2",
+        "The Coal Act 1952 section 22 sub-section 2"
+      ],
+      "responses": [
+        "The Chief Inspector or Inspector can prohibit the extraction of minerals in a mine if it poses risks like pillar collapse or endangering workers' lives or safety."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection3",
+      "patterns": [
+        "When can the Chief Inspector or Inspector urgently prohibit employment in a mine?",
+        "What is the basis for an urgent and immediate danger assessment?",
+        "How is 'urgent and immediate danger' defined?",
+        "Is there a process to lift such prohibitions?",
+        "How does this provision ensure worker safety?",
+        "Can individuals or organizations seek assistance in urgent danger situations?",
+        "Are there historical instances illustrating the urgency of this provision?",
+        "What is the role of the Chief Inspector or Inspector in this?",
+        "How does this provision contribute to mine safety?",
+        "The Coal Act 1952 section-22 sub-section-3",
+        "The Coal Act 1952 section 22 sub-section 3"
+      ],
+      "responses": [
+        "If there is urgent and immediate danger to mine workers' lives or safety, the Chief Inspector or Inspector can prohibit employment of individuals not deemed necessary to mitigate the danger."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection3A",
+      "patterns": [
+        "What happens if an individual's employment is prohibited?",
+        "Are there consequences for not paying full wages during prohibitions?",
+        "Is there an option to provide alternative employment?",
+        "How can an employer resolve prohibitions and wage payments?",
+        "Can individuals or organizations seek guidance on these matters?",
+        "What role does the owner, agent, or manager play in these situations?",
+        "Are there historical examples illustrating the implications of this provision?",
+        "How does this provision safeguard mine workers' livelihoods?",
+        "What is the process for determining alternative employment?",
+        "The Coal Act 1952 section-22 sub-section-3A",
+        "The Coal Act 1952 section 22 sub-section 3A"
+      ],
+      "responses": [
+        "If an individual's employment is prohibited, the employer must pay full wages for the period of prohibition, or provide alternative employment at the same wages."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection4",
+      "patterns": [
+        "Can the owner, agent, or manager appeal safety notices or orders?",
+        "Who has the authority to confirm, modify, or cancel safety notices or orders?",
+        "What happens after an appeal is made?",
+        "Is there a time frame for making appeals?",
+        "How does the appeal process work?",
+        "Are there historical cases where safety notices or orders were appealed?",
+        "What is the role of the Chief Inspector in the appeal process?",
+        "How does this provision ensure fairness in safety measures?",
+        "What are the typical outcomes of appeals?",
+        "Can individuals or organizations seek assistance in the appeal process?",
+        "The Coal Act 1952 section-22 sub-section-4",
+        "The Coal Act 1952 section 22 sub-section 4"
+      ],
+      "responses": [
+        "The owner, agent, or manager can appeal safety notices or orders within ten days. The Chief Inspector can confirm, modify, or cancel these notices or orders."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection5",
+      "patterns": [
+        "Who should report safety notices and orders to the Central Government?",
+        "What information needs to be included in the reports?",
+        "Is there a time frame for reporting?",
+        "How is the Central Government informed?",
+        "Are there historical examples of reported safety matters?",
+        "What role does the Central Government play in mine safety?",
+        "Can individuals or organizations contact the Central Government regarding safety concerns?",
+        "How do these reports contribute to overall mine safety?",
+        "Are there any common issues or trends identified through these reports?",
+        "Is there a public record of reported safety matters?",
+        "The Coal Act 1952 section-22 sub-section-5",
+        "The Coal Act 1952 section 22 sub-section 5"
+      ],
+      "responses": [
+        "The Chief Inspector or Inspector must report safety notices and orders to the Central Government. The reports include details of the safety matters, and the Central Government is informed immediately."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection6",
+      "patterns": [
+        "What should the owner, agent, or manager do if they object to safety notices or orders?",
+        "Is there a formal process for objecting to safety notices or orders?",
+        "What is the timeline for raising objections?",
+        "How is the objection process initiated?",
+        "What happens after objections are submitted?",
+        "Are there historical cases of objections to safety notices or orders?",
+        "What is the role of the Central Government in the objection process?",
+        "How does this provision ensure fairness in addressing safety concerns?",
+        "Can individuals or organizations get guidance on objecting to safety matters?",
+        "Are objections typically resolved in favor of mine owners?",
+        "The Coal Act 1952 section-22 sub-section-6",
+        "The Coal Act 1952 section 22 sub-section 6"
+      ],
+      "responses": [
+        "If the owner, agent, or manager objects to a safety notice or order, they can submit their objections in writing to the Central Government within twenty days. The Central Government refers the objections to a Committee for resolution."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection7",
+      "patterns": [
+        "What should happen while objections to safety notices or orders are being resolved?",
+        "Can safety measures be put on hold during the objection process?",
+        "What is the significance of the Central Government's decision?",
+        "Can mine owners request a suspension of safety notices?",
+        "What is the role of the Committee during this period?",
+        "Are there historical instances of safety measures being suspended?",
+        "How does this provision balance safety and operational considerations?",
+        "Can individuals or organizations seek guidance on suspension requests?",
+        "What factors influence the Committee's decision to suspend safety measures?",
+        "What is the typical duration of suspensions?",
+        "The Coal Act 1952 section-22 sub-section-7",
+        "The Coal Act 1952 section 22 sub-section 7"
+      ],
+      "responses": [
+        "Safety notices or orders must be complied with while objections are being resolved. However, the Committee can suspend the operation of a notice under certain circumstances upon request from the owner, agent, or manager."
+      ]
+    },
+    {
+      "tag": "mines_safety_subsection8",
+      "patterns": [
+        "How does this section relate to the powers of a magistrate?",
+        "Under what circumstances can a magistrate's powers be invoked?",
+        "What is the connection between this section and the Code of Criminal Procedure?",
+        "Are there historical examples where magistrates' powers were invoked?",
+        "How does this provision ensure the swift implementation of safety measures?",
+        "Can individuals or organizations engage with magistrates on safety matters?",
+        "What actions can a magistrate take under the Code of Criminal Procedure?",
+        "Is there a role for magistrates in enforcing mine safety?",
+        "The Coal Act 1952 section-22 sub-section-8",
+        "The Coal Act 1952 section 22 sub-section 8"
+      ],
+      "responses": [
+        "This section doesn't affect the powers of a magistrate under the Code of Criminal Procedure, 1898. Magistrates can take actions under their authority to enforce safety when necessary."
+      ]
+    },
+    {
+      "tag": "mines_safety_section22a_subsection1",
+      "patterns": [
+        "What happens if the owner, agent, or manager doesn't comply with safety provisions?",
+        "Can the Chief Inspector take action if safety provisions are not followed?",
+        "How does the Chief Inspector enforce safety compliance?",
+        "Is there a timeframe for complying with safety provisions?",
+        "What is the purpose of the notice given by the Chief Inspector?",
+        "Are there penalties for non-compliance with safety provisions?",
+        "What happens if the specified time for compliance is not met?",
+        "Can the compliance timeframe be extended?",
+        "The Coal Act 1952 section-22A sub-section-1",
+        "The Coal Act 1952 section 22A sub-section 1"
+      ],
+      "responses": [
+        "If the owner, agent, or manager fails to comply with safety provisions, the Chief Inspector can issue a notice requiring compliance within a specified time."
+      ]
+    },
+    {
+      "tag": "mines_safety_section22a_subsection2",
+      "patterns": [
+        "What happens if safety provisions are not followed within the specified time?",
+        "Can the Chief Inspector prohibit employment if safety provisions are not complied with?",
+        "Is there a penalty for failing to comply with the notice?",
+        "How does the Chief Inspector ensure safety measures are enforced?",
+        "What is the purpose of prohibiting employment?",
+        "Can anyone be employed in or around the mine?",
+        "Can the prohibition of employment be extended?",
+        "What is considered 'reasonably necessary' for securing compliance?",
+        "The Coal Act 1952 section-22A sub-section-2",
+        "The Coal Act 1952 section 22A sub-section 2"
+      ],
+      "responses": [
+        "If safety provisions are not complied with within the specified time, the Chief Inspector can prohibit the employment of anyone whose employment is not reasonably necessary for compliance."
+      ]
+    },
+    {
+      "tag": "mines_safety_section22a_subsection3",
+      "patterns": [
+        "What rights do employees have if their employment is prohibited?",
+        "Are employees entitled to wages if their employment is prohibited?",
+        "Who is responsible for paying the wages?",
+        "Can alternative employment be provided instead of wages?",
+        "How does this provision protect employees' livelihoods?",
+        "Can employees refuse alternative employment?",
+        "What determines the wages for alternative employment?",
+        "Can employees appeal the prohibition of their employment?",
+        "The Coal Act 1952 section-22A sub-section-3",
+        "The Coal Act 1952 section 22A sub-section 3"
+      ],
+      "responses": [
+        "Employees whose employment is prohibited are entitled to full wages for the period of prohibition. The owner, agent, or manager is liable to pay these wages. Alternatively, they may provide alternative employment at the same wages."
+      ]
+    },
+    {
+      "tag": "mines_safety_section22a_subsection4",
+      "patterns": [
+        "How do the provisions of section 22A relate to Section 22?",
+        "Are there similarities between the sections 22 and 22A?",
+        "What happens if the Chief Inspector issues a notice or order under section 22A?",
+        "Can objections be raised against notices or orders issued under this section 22A?",
+        "Is there a committee involved in this section 22A as well?",
+        "Are there any historical cases related to this section 22A?",
+        "The Coal Act 1952 section-22A sub-section-4",
+        "The Coal Act 1952 section 22A sub-section 4"
+      ],
+      "responses": [
+        "The provisions of sub-sections (5), (6), and (7) of Section 22 also apply to notices issued under this section or orders made under this section."
+      ]
+    },
+    {
+      "tag": "mines_safety_section23_subsection1",
+      "patterns": [
+        "What should the owner, agent, or manager do in case of a mine accident?",
+        "Are there specific types of accidents they need to report?",
+        "How should they notify the authorities?",
+        "Is there a prescribed time frame for reporting accidents?",
+        "What is the purpose of posting a notice on a special notice board?",
+        "Who should be able to inspect the notice?",
+        "How long should the notice be kept on the board?",
+        "The Coal Act 1952 section-23 sub-section-1",
+        "The Coal Act 1952 section 23 sub-section 1"
+      ],
+      "responses": [
+        "In case of a mine accident, the owner, agent, or manager must notify the relevant authority in the prescribed form within the specified time. They should also post one copy of the notice on a special notice board for inspection by trade union officials, keeping it there for at least fourteen days."
+      ]
+    },
+    {
+      "tag": "mines_safety_section23_subsection1A",
+      "patterns": [
+        "What should be done in case of an accident causing reportable injury?",
+        "Is there a specific form for reporting such accidents?",
+        "How often should copies of entries be furnished to the Chief Inspector?",
+        "What qualifies as a 'reportable injury'?",
+        "Are there any quarterly reporting requirements?",
+        "What is the purpose of maintaining such a register?",
+        "The Coal Act 1952 section-23 sub-section-1A",
+        "The Coal Act 1952 section 23 sub-section 1A"
+      ],
+      "responses": [
+        "In case of an accident causing reportable injury, the owner, agent, or manager should enter the occurrence in a register in the prescribed form. Copies of these entries should be provided to the Chief Inspector once every quarter."
+      ]
+    },
+    {
+      "tag": "mines_safety_section23_subsection2",
+      "patterns": [
+        "What happens if an accident causes loss of life?",
+        "How is an inquiry into such accidents conducted?",
+        "Is there a timeframe for conducting the inquiry?",
+        "Who conducts the inquiry if the authority is not the Inspector?",
+        "What is the role of the Inspector in such inquiries?",
+        "The Coal Act 1952 section-23 sub-section-2",
+        "The Coal Act 1952 section 23 sub-section 2"
+      ],
+      "responses": [
+        "If an accident causes loss of life, the authority shall conduct an inquiry within two months of receiving the notice. If the authority is not the Inspector, they will involve the Inspector in the inquiry."
+      ]
+    },
+    {
+      "tag": "mines_safety_section23_subsection3",
+      "patterns": [
+        "Are all accidents required to be reported?",
+        "What types of accidents fall under this section?",
+        "Who determines which accidents need to be registered?",
+        "What is the purpose of registering accidents?",
+        "The Coal Act 1952 section-23 sub-section-3",
+        "The Coal Act 1952 section 23 sub-section 3"
+      ],
+      "responses": [
+        "The Central Government may direct that accidents, causing bodily injury resulting in enforced absence from work for more than twenty-four hours, should be registered or subject to the provisions of sub-section (1) or sub-section (1A), as specified."
+      ]
+    },
+    {
+      "tag": "mines_safety_section23_subsection4",
+      "patterns": [
+        "What should be done with entries in the register?",
+        "How often should copies of entries be sent to the Chief Inspector?",
+        "Is there a specific deadline for sending copies of entries?",
+        "Why is it important to send copies to the Chief Inspector?",
+        "The Coal Act 1952 section-23 sub-section-4",
+        "The Coal Act 1952 section 23 sub-section 4"
+      ],
+      "responses": [
+        "Entries in the register should be sent to the Chief Inspector on or before the 20th day of January in the following year. This ensures that records are maintained and accessible for inspection."
+      ]
+    },
+    {
+      "tag": "mines_safety_section23_subsection5",
+      "patterns": [
+        "What precautions are taken in case of an accident causing loss of life or serious bodily injury?",
+        "Who decides whether the place of accident can be disturbed or altered?",
+        "Under what circumstances can the place of accident be altered?",
+        "What happens if the Chief Inspector fails to inspect the place of accident within a specific time frame?",
+        "Why is it important not to disturb the place of accident?",
+        "The Coal Act 1952 section-23 sub-section-5",
+        "The Coal Act 1952 section 23 sub-section 5"
+      ],
+      "responses": [
+        "In case of an accident causing loss of life or serious bodily injury, the place of accident should not be disturbed or altered without the consent of the Chief Inspector or Inspector. Disturbance or alteration may only occur if it is necessary to prevent further accidents, remove bodies, rescue persons, or if work discontinuation would severely impact mine operations."
+      ]
+    },
+    {
+      "tag": "mines_safety_section24_subsection1",
+      "patterns": [
+        "What happens when a serious accident occurs in or around a mine?",
+        "Who decides whether a formal inquiry is needed for an accident?",
+        "What is the role of the Central Government in such cases?",
+        "Can assessors be appointed for the inquiry?",
+        "What is the purpose of a formal inquiry?",
+        "Who conducts the inquiry?",
+        "The Coal Act 1952 section-24 sub-section-1",
+        "The Coal Act 1952 section 24 sub-section 1"
+      ],
+      "responses": [
+        "When a serious accident occurs in or around a mine, the Central Government may appoint a competent person to conduct a formal inquiry into the causes and circumstances of the accident. They may also appoint assessors with legal or special knowledge to assist in the inquiry."
+      ]
+    },
+    {
+      "tag": "mines_safety_section24_subsection2",
+      "patterns": [
+        "What powers does the person conducting the inquiry have?",
+        "Can witnesses be compelled to attend the inquiry?",
+        "Can documents and material objects be requested during the inquiry?",
+        "Is there a specific legal framework for the inquiry process?",
+        "The Coal Act 1952 section-24 sub-section-2",
+        "The Coal Act 1952 section 24 sub-section 2"
+      ],
+      "responses": [
+        "The person conducting the inquiry has all the powers of a civil court under the Code of Civil Procedure, 1908, to enforce the attendance of witnesses and compel the production of documents and material objects for the purpose of the inquiry."
+      ]
+    },
+    {
+      "tag": "mines_safety_section24_subsection3",
+      "patterns": [
+        "What powers can the person conducting the inquiry exercise?",
+        "Are there any restrictions on the powers during the inquiry?",
+        "How can the Inspector's powers be used during the inquiry?",
+        "The Coal Act 1952 section-24 sub-section-3",
+        "The Coal Act 1952 section 24 sub-section 3"
+      ],
+      "responses": [
+        "The person conducting the inquiry can exercise any of the powers of an Inspector under this Act that they find necessary or expedient for the purpose of the inquiry."
+      ]
+    },
+    {
+      "tag": "mines_safety_section24_subsection4",
+      "patterns": [
+        "What should the person conducting the inquiry include in the report?",
+        "What information should be in the report?",
+        "Can the assessors provide observations in the report?",
+        "What is the purpose of the report?",
+        "The Coal Act 1952 section-24 sub-section-4",
+        "The Coal Act 1952 section 24 sub-section 4"
+      ],
+      "responses": [
+        "The person conducting the inquiry should prepare a report for the Central Government. This report should state the causes of the accident, its circumstances, and any observations that the person or assessors consider relevant."
+      ]
+    },
+    {
+      "tag": "mines_safety_section25_subsection1",
+      "patterns": [
+        "What should the owner, agent, or manager of a mine do if a person employed in the mine contracts a disease related to mining operations?",
+        "Is there a requirement to report such diseases?",
+        "Who should receive notice of the disease?",
+        "What is the procedure for reporting mining-related diseases?",
+        "The Coal Act 1952 section-25 sub-section-1",
+        "The Coal Act 1952 section 25 sub-section 1"
+      ],
+      "responses": [
+        "If a person employed in a mine contracts a disease notified by the Central Government as connected with mining operations, the owner, agent, or manager of the mine must send notice of the disease to the Chief Inspector and other prescribed authorities in the specified form and within the prescribed time."
+      ]
+    },
+    {
+      "tag": "mines_safety_section25_subsection2",
+      "patterns": [
+        "What should a medical practitioner do if they treat a person believed to have a mining-related disease?",
+        "Is there a reporting requirement for medical practitioners treating mine workers?",
+        "What information should be included in the report?",
+        "The Coal Act 1952 section-25 sub-section-2",
+        "The Coal Act 1952 section 25 sub-section 2"
+      ],
+      "responses": [
+        "If a medical practitioner attends to a person who is or has been employed in a mine and is suffering from or believed to be suffering from a disease notified under sub-section (1), they must promptly send a written report to the Chief Inspector. The report should include the patient's name and address, the disease, and the name and address of the mine where the patient worked."
+      ]
+    },
+    {
+      "tag": "mines_safety_section25_subsection3",
+      "patterns": [
+        "What happens when the Chief Inspector receives a report of a mining-related disease?",
+        "How is the report confirmed?",
+        "Is there a fee involved?",
+        "Who pays the fee?",
+        "The Coal Act 1952 section-25 sub-section-3",
+        "The Coal Act 1952 section 25 sub-section 3"
+      ],
+      "responses": [
+        "When the Chief Inspector receives a report under sub-section (2) and it is confirmed to their satisfaction that the person is suffering from a disease notified under sub-section (1), the Chief Inspector shall pay a prescribed fee to the medical practitioner. This fee is recoverable as an arrear of land revenue from the owner, agent, or manager of the mine where the person contracted the disease."
+      ]
+    },
+    {
+      "tag": "mines_safety_section25_subsection4",
+      "patterns": [
+        "What happens if a medical practitioner fails to comply with the reporting requirements?",
+        "Is there a penalty for non-compliance?",
+        "The Coal Act 1952 section-25 sub-section-4",
+        "The Coal Act 1952 section 25 sub-section 4"
+      ],
+      "responses": [
+        "If a medical practitioner fails to comply with the reporting requirements under sub-section (2), they may be punishable with a fine that can extend to fifty rupees."
+      ]
+    },
+    {
+      "tag": "mines_safety_section26_subsection1",
+      "patterns": [
+        "Can the Central Government appoint someone to inquire into cases of diseases related to mining operations?",
+        "What is the purpose of appointing a competent person in such cases?",
+        "Who are the assessors in this inquiry?",
+        "The Coal Act 1952 section-26 sub-section-1",
+        "The Coal Act 1952 section 26 sub-section 1"
+      ],
+      "responses": [
+        "Yes, the Central Government can appoint a competent person to inquire into and report on cases where a disease notified under sub-section (1) of section 25 has been or is suspected to have been contracted in a mine. The Central Government may also appoint one or more persons possessing legal or special knowledge to act as assessors in this inquiry."
+      ]
+    },
+    {
+      "tag": "mines_safety_section26_subsection2",
+      "patterns": [
+        "What are the provisions regarding inquiries under this section?",
+        "Are there any specific rules for conducting these inquiries?",
+        "The Coal Act 1952 section-26 sub-section-2",
+        "The Coal Act 1952 section 26 sub-section 2"
+      ],
+      "responses": [
+        "The provisions of sub-sections (2) and (3) of section 24 apply to an inquiry under this section in the same manner as they apply to any inquiry under that section."
+      ]
+    },
+    {
+      "tag": "mines_safety_section26_general",
+      "patterns": [
+        "Tell me more about Section 26 of the Coal Mines Safety Act, 1952.",
+        "What happens in cases of diseases related to mining operations?",
+        "Who conducts inquiries in such cases?",
+        "What does section 26 deal with?",
+        "What is section 26 of the coal act of 1952",
+        "The Coal Act 1952 section-26",
+        "The Coal Act 1952 section 26"
+      ],
+      "responses": [
+        "Section 26 of the Coal Mines Safety Act, 1952 allows the Central Government to appoint a competent person to inquire into cases where diseases related to mining operations have been contracted in a mine or are suspected to have been contracted. The Central Government may also appoint assessors with legal or special knowledge for such inquiries."
+      ]
+    },
+    {
+      "tag": "mines_safety_section27",
+      "patterns": [
+        "What does Section 27 of the Coal Mines Safety Act, 1952 state?",
+        "Can you explain Section 27?",
+        "What happens with reports submitted by Committees or Courts of inquiry?",
+        "The Coal Act 1952 section-27",
+        "The Coal Act 1952 section 27"
+      ],
+      "responses": [
+        "Section 27 of the Coal Mines Safety Act, 1952 empowers the Central Government to publish any report submitted by a Committee under section 12, any report or extracts from a report submitted under section 26, and every report submitted by a Court of inquiry under section 24. The Central Government determines the time and manner of publication."
+      ]
+    },
+    {
+      "tag": "work_days_regulation_section_28",
+      "patterns": [
+        "How many days can a person work in a mine in a week?",
+        "What's the limit on work days in mines?",
+        "Tell me about the regulation for working days in mines.",
+        "The Coal Act 1952 section-28",
+        "The Coal Act 1952 section 28"
+      ],
+      "responses": [
+        "According to the regulation, no person is allowed to work in a mine for more than six days in any one week."
+      ]
+    },
+    {
+      "tag": "sub_section_1_compensatory_rest_days_regulation_section 29",
+      "patterns": [
+        "What happens if a person is deprived of weekly days of rest in a mine?",
+        "Tell me about compensatory days of rest in mines.",
+        "How are compensatory days of rest determined in mines?",
+        "What's the process for granting compensatory days of rest?",
+        "Tell me more about the manner in which compensatory days of rest are allowed.",
+        "The Coal Act 1952 section-29 sub-section-1",
+        "The Coal Act 1952 section 29 sub section 1"
+      ],
+      "responses": [
+        "If a person is deprived of any of the weekly days of rest due to actions under section 38 or exemptions, they shall be allowed compensatory days of rest within the month they were due or within the two months immediately following that month."
+      ]
+    },
+    {
+      "tag": "sub_section_2_compensatory_rest_days_regulation",
+      "patterns": [
+        "The Coal Act 1952 section-29 sub-section-2",
+        "The Coal Act 1952 section 29 sub section 2"
+      ],
+      "responses": [
+        "The Central Government may prescribe the manner in which the compensatory days of rest, as provided in sub-section (1), shall be allowed."
+      ]
+    },
+    {
+      "tag": "Coal Mines Act - Section 31 sub-section 1",
+      "patterns": [
+        "What are the maximum weekly working hours for adults below ground in a mine according to Section 31 sub-section 1?",
+        "Explain the maximum daily working hours for adults below ground as per Section 31 sub-section 1.",
+        "Tell me about the working hour restrictions in Section 31 sub-section 1 for adults below ground.",
+        "What does Section 31 sub-section 1 say about daily and weekly working hours for adults below ground?",
+        "What is the daily weekly working hours of an adult in mines?",
+        "The Coal Act 1952 section-31 sub-section-1",
+        "The Coal Act 1952 section 31 sub section 1"
+
+      ],
+      "responses": [
+        "Section 31 sub-section 1 of the Coal Mines Act states that no adult employed below ground in a mine shall be allowed to work for more than forty-eight hours in any week or for more than eight hours in any day. However, the daily maximum hours may be exceeded with the Chief Inspector's approval to facilitate shift changes."
+      ]
+    },
+    {
+      "tag": "Coal Mines Act - Section 31 sub-section 2",
+      "patterns": [
+        "Explain the requirement for shifts below ground in a mine according to Section 31 sub-section 2.",
+        "What does Section 31 sub-section 2 say about work shifts in mines below ground?",
+        "Tell me about the system of shifts required in mines below ground as per Section 31 sub-section 2.",
+        "The Coal Act 1952 section-31 sub-section-2",
+        "The Coal Act 1952 section 31 sub section 2"
+      ],
+      "responses": [
+        "Section 31 sub-section 2 of the Coal Mines Act mandates that no work shall be carried on below ground in any mine except by a system of shifts. These shifts should be arranged in a way that the period of work for each shift does not spread over more than the daily maximum hours specified in Section 31 sub-section 1."
+      ]
+    },
+    {
+      "tag": "Coal Mines Act - Section 31 sub-section 3",
+      "patterns": [
+        "What restrictions does Section 31 sub-section 3 impose on persons employed below ground in a mine?",
+        "Explain the presence restrictions under Section 31 sub-section 3 for persons below ground in mines.",
+        "Tell me about the provisions of Section 31 sub-section 3 regarding the presence of employees below ground in mines.",
+        "The Coal Act 1952 section-31 sub-section-3",
+        "The Coal Act 1952 section 31 sub section 3"
+      ],
+      "responses": [
+        "Section 31 sub-section 3 of the Coal Mines Act states that no person employed in a mine shall be allowed to be present in any part of a mine below ground except during the periods of work specified for them in the register maintained under sub-section (4) of section 48."
+      ]
+    },
+    {
+      "tag": "Coal Mines Act - Section 30 Sub-section 1",
+      "patterns": [
+        "What are the maximum weekly working hours for adults above ground in a mine according to Section 30 Sub-section 1?",
+        "Explain the maximum daily working hours for adults above ground as per Section 30 Sub-section 1.",
+        "Tell me about the working hour restrictions in Section 30 Sub-section 1 for adults above ground.",
+        "What does Section 30 Sub-section 1 say about daily and weekly working hours for adults above ground?",
+        "The Coal Act 1952 section-30 sub-section-1",
+        "The Coal Act 1952 section 30 sub section 1"
+      ],
+      "responses": [
+        "Section 30 Sub-section 1 of the Coal Mines Act states that no adult employed above ground in a mine shall be required or allowed to work for more than forty-eight hours in any week or for more than nine hours in any day. However, the daily maximum hours may be exceeded with the Chief Inspector's approval to facilitate shift changes."
+      ]
+    },
+    {
+      "tag": "Coal Mines Act - Section 30 Sub-section 2",
+      "patterns": [
+        "Explain the arrangement of work periods and intervals for rest according to Section 30 Sub-section 2.",
+        "What does Section 30 Sub-section 2 say about work schedules and rest intervals for adults above ground?",
+        "Tell me about the provisions of Section 30 Sub-section 2 regarding work hours and rest intervals for adults above ground.",
+        "The Coal Act 1952 section-30 sub-section-2",
+        "The Coal Act 1952 section 30 sub section 2"
+      ],
+      "responses": [
+        "Section 30 Sub-section 2 of the Coal Mines Act requires that the periods of work for adults above ground, along with their intervals for rest, should not spread over more than twelve hours in any day. Additionally, they should not work for more than five hours continuously before having an interval for rest of at least half an hour. The Chief Inspector may, for specified reasons and with written approval, permit the spread-over to extend over a period not exceeding fourteen hours in any day."
+      ]
+    },
+    {
+      "tag": "Coal Mines Act - Section 30 Sub-section 3",
+      "patterns": [
+        "What restrictions does Section 30 Sub-section 3 impose on persons working in shifts above ground?",
+        "Explain the provisions of Section 30 Sub-section 3 regarding work assignments in shifts above ground.",
+        "Tell me about the limitations outlined in Section 30 Sub-section 3 for persons working in shifts above ground.",
+        "The Coal Act 1952 section-30 sub-section-3",
+        "The Coal Act 1952 section 30 sub section 3"
+      ],
+      "responses": [
+        "Section 30 Sub-section 3 of the Coal Mines Act prohibits persons belonging to two or more shifts above ground from doing work of the same kind at the same time. However, it is important to note that persons are not considered to belong to separate shifts solely based on receiving their intervals for rest at different times."
+      ]
+    },
+    {
+      "tag": "Coal Mines Act - Section 32",
+      "patterns": [
+        "Can you explain Section 32 of the Coal Mines Act?",
+        "What are the provisions of Section 32 regarding night shifts in mines?",
+        "Tell me about the rules in Section 32 related to shifts that extend beyond midnight.",
+        "How does Section 32 of the Coal Mines Act define a weekly day of rest for night shift workers?",
+        "The Coal Act 1952 section-32",
+        "The Coal Act 1952 section 32"
+      ],
+      "responses": [
+        "Section 32 of the Coal Mines Act deals with night shifts in mines. When a person employed in a mine works on a shift that extends beyond midnight, the following rules apply:\n(a) For the purposes of sections 28 and 29, a weekly day of rest for this person shall mean a period of twenty-four consecutive hours beginning when their shift ends.\n(b) The following day for this person shall be deemed to be the period of twenty-four hours beginning when such shift ends, and the hours worked after midnight shall be counted in the previous day."
+      ]
+    },
+    {
+      "tag": "overtime_calculation_section_33_subsection_1",
+      "patterns": [
+        "How is overtime calculated in mines?",
+        "What is the overtime rate for mine workers?",
+        "Tell me about overtime wages in mines.",
+        "The Coal Act 1952 section-33 sub-section-1",
+        "The Coal Act 1952 section 33 sub-section 1"
+      ],
+      "responses": [
+        "In a mine, overtime is calculated based on specific criteria. If a person works above ground for more than nine hours in a day or works below ground for more than eight hours in a day or works for more than forty-eight hours in a week, they are entitled to wages at twice their ordinary rate of wages. The period of overtime work is calculated on a daily or weekly basis, whichever is more favorable to the worker."
+      ]
+    },
+    {
+      "tag": "piece_rate_basis_section_33_subsection_2",
+      "patterns": [
+        "What happens if a mine worker is paid on a piece-rate basis?",
+        "Explain the time-rate for mine workers on a piece-rate basis.",
+        "How is the ordinary rate of wages determined for piece-rate workers in mines?",
+        "The Coal Act 1952 section-33 sub-section-2",
+        "The Coal Act 1952 section 33 sub-section 2"
+      ],
+      "responses": [
+        "If a person employed in a mine is paid on a piece-rate basis, the time-rate is determined as the daily average of their full-time earnings for the days they actually worked during the week immediately preceding the week in which overtime work has been done, excluding any overtime. This time-rate is considered their ordinary rate of wages. If they haven't worked on the same job in the preceding week, the time-rate is based on the average for the days they worked in the same week, excluding overtime, or on the daily average of their earnings in any preceding week, whichever is higher."
+      ]
+    },
+    {
+      "tag": "registers_in_mines_section_33_subsection_4",
+      "patterns": [
+        "What registers need to be maintained in mines?",
+        "Tell me about the registers required for compliance in mines.",
+        "What are the prescribed registers for mine compliance?",
+        "The Coal Act 1952 section-33 sub-section-4",
+        "The Coal Act 1952 section 33 sub-section 4"
+      ],
+      "responses": [
+        "The Central Government may prescribe the registers to be maintained in a mine for the purpose of ensuring compliance with the provisions of this section. The specific details of these registers may vary and are determined by the government to ensure that mines adhere to the relevant regulations."
+      ]
+    },
+    {
+      "tag": "prohibition_of_employment_section_34",
+      "patterns": [
+        "What is the prohibition of employment in mines?",
+        "Can a person work in multiple mines within a short time?",
+        "Tell me about restrictions on working in different mines.",
+        "Is it allowed to work in two different mines on the same day?",
+        "Explain the rule about working in multiple mines.",
+        "What are the consequences of working in two mines within twelve hours?",
+        "How does the law regulate working in different mines?",
+        "Tell me more about the time limit for working in mines.",
+        "What happens if someone violates the rule of not working in two mines within twelve hours?",
+        "Are there any exceptions to the rule of not working in multiple mines?",
+        "The Coal Act 1952 section-34",
+        "The Coal Act 1952 section 34"
+      ],
+      "responses": [
+        "According to the regulations, no person shall be required or allowed to work in a mine if they have already been working in any other mine within the preceding twelve hours. This restriction is in place to ensure the safety and well-being of mine workers."
+      ]
+    },
+    {
+      "tag": "daily_hours_limit",
+      "patterns": [
+        "What are the limitations on daily hours of work in mines?",
+        "How many hours can a person work in a mine in a day?",
+        "Tell me about the maximum working hours in mines.",
+        "Is there a restriction on overtime work in mines?",
+        "Explain the rule regarding daily hours of work in mines.",
+        "The Coal Act 1952 section-35",
+        "The Coal Act 1952 section 35"
+      ],
+      "responses": [
+        "According to the regulations, no person employed in a mine shall be required or allowed to work in the mine for more than ten hours in any day, inclusive of overtime. However, there are exceptions mentioned in clause (a) and clause (e) of section 39."
+      ]
+    },
+    {
+      "tag": "Section36_SubSection1",
+      "patterns": [
+        "What does Section 36 Sub-Section 1 of the Coal Mines Act, 1952, require regarding posting notices at mines?",
+        "Tell me about the posting of notices in mines as per Section 36 Sub-Section 1 of the Coal Mines Act.",
+        "What information should be included in the notice posted outside the mine's office according to Section 36 Sub-Section 1?",
+        "What does Section 36(1) of the Coal Mines Safety Act, 1952, state?",
+        "Explain the requirements of Section 36(1) regarding posting notices in mines.",
+        "Tell me about the notice regarding work hours in mines.",
+        "What is the purpose of posting a notice outside the mine office?",
+        "Can you describe the contents of the notice mentioned in Section 36(1)?",
+        "When should the notice about work hours be posted in a mine?",
+        "Is there a specific form in which the notice must be posted?",
+        "What does Section 36(1) say about working by a system of relays?",
+        "What information should be included in the notice regarding relay work?",
+        "Who is responsible for ensuring compliance with Section 36(1)?"
+      ],
+      "responses": [
+        "Section 36 Sub-Section 1 of the Coal Mines Act, 1952, mandates that the manager of every mine must post a notice outside the mine's office in the prescribed form. This notice should specify the time when work at the mine commences and ends. Additionally, if the mine operates using a system of relays, the notice must also include the starting and ending times for each relay."
+      ]
+    },
+    {
+      "tag": "Section36_SubSection2",
+      "patterns": [
+        "What does Section 36 Sub-Section 2 of the Coal Mines Act, 1952, state about posting notices in mines?",
+        "Explain the requirements for posting notices in mines as per Section 36 Sub-Section 2 of the Coal Mines Act."
+      ],
+      "responses": [
+        "In the case of a mine at which mining operations commence after the commencement of this Act, Section 36 Sub-Section 2 requires that the notice mentioned in Sub-Section 1 should be posted not less than seven days before the commencement of work."
+      ]
+    },
+    {
+      "tag": "Section36_SubSection3",
+      "patterns": [
+        "What information should be included in the notice posted outside the mine's office according to Section 36 Sub-Section 3 of the Coal Mines Act?",
+        "Explain the provisions related to rest intervals in the notice under Section 36 Sub-Section 3."
+      ],
+      "responses": [
+        "Section 36 Sub-Section 3 of the Coal Mines Act, 1952, mandates that the notice posted outside the mine's office, as mentioned in Sub-Section 1, should also state the time of the commencement and of the intervals for rest for persons employed above ground. A copy of this notice should be sent to the Chief Inspector if he requests it."
+      ]
+    },
+    {
+      "tag": "Section36_SubSection4",
+      "patterns": [
+        "What does Section 36 Sub-Section 4 of the Coal Mines Act, 1952, require regarding changes to work schedules?",
+        "Explain the provisions for making alterations in work schedules under Section 36 Sub-Section 4."
+      ],
+      "responses": [
+        "Section 36 Sub-Section 4 specifies that if there is a proposal to make any alteration in the time fixed for the commencement or for the end of work in the mine generally, for any relay, or in the rest intervals fixed for persons employed above ground, an amended notice in the prescribed form should be posted outside the mine's office not less than seven days before the change is made. Additionally, a copy of such notice should be sent to the Chief Inspector not less than seven days before the change."
+      ]
+    },
+    {
+      "tag": "Section36_SubSection5",
+      "patterns": [
+        "What does Section 36 Sub-Section 5 of the Coal Mines Act, 1952, state regarding work in mines?",
+        "Explain the significance of Section 36 Sub-Section 5 in relation to mine work schedules."
+      ],
+      "responses": [
+        "Section 36 Sub-Section 5 of the Coal Mines Act, 1952, prohibits any person from being allowed to work in a mine unless it is in accordance with the notice required by Sub-Section 1, which specifies the work schedules and timings."
+      ]
+    },
+    {
+      "tag": "ExemptionFromCertainSectionsSection37",
+      "patterns": [
+        "Which sections of the Coal Mines Act, 1952, provide exemptions for persons in supervisory or managerial roles?",
+        "Explain the exemptions from certain sections of the Coal Mines Act for individuals in confidential positions.",
+        "Who is exempt from compliance with sections 28, 30, 31, 34, and Sub-Section 5 of Section 36 under the Coal Mines Act, 1952?",
+        "What does Section 37 of the Coal Mines Act, 1952, state?",
+        "Tell me about the exemptions in Section 37 of the Coal Mines Act, 1952.",
+        "Who is exempt from compliance with sections 28, 30, 31, 34, and Sub-Section 5 of Section 36 according to Section 37 of the Coal Mines Act, 1952?",
+        "Explain the provisions of Section 37 in the Coal Mines Act, 1952.",
+        "Which sections of the Coal Mines Act, 1952, do not apply on persons in supervisory or managerial roles?",
+        "The Coal Act 1952 section-37",
+        "The Coal Act 1952 section 37"
+      ],
+      "responses": [
+        "The Coal Mines Act, 1952, stipulates that sections 28, 30, 31, 34, and Sub-Section 5 of Section 36 shall not apply to individuals who are defined by rules to hold positions of supervision or management or are employed in a confidential capacity."
+      ]
+    },
+    {
+      "tag": "EmergencyInMine_section-38",
+      "patterns": [
+        "What actions can the manager take in case of an emergency in a mine?",
+        "Explain the provisions related to emergencies in mines.",
+        "When can the manager permit employment in contravention of mine safety rules?",
+        "Tell me about emergency situations in mines.",
+        "In what circumstances can the manager allow employment contrary to mine safety rules?",
+        "How does the manager handle emergencies in a mine?",
+        "Are there any exceptions to mine safety rules during emergencies?",
+        "Describe the manager's authority in emergency situations in mines.",
+        "When might employment be permitted in violation of mine safety regulations?",
+        "What are the rules regarding work during emergencies in mines?",
+        "The Coal Act 1952 section-38",
+        "The Coal Act 1952 section 38"
+      ],
+      "responses": [
+        "In case of an emergency involving serious risk to the safety of the mine or persons employed therein, or in case of an accident, whether actual or apprehended, or in case of any act of God or in case of any urgent work to be done to machinery, plant, or equipment of the mine as a result of breakdown, the manager may permit persons to be employed in contravention of mine safety rules, as necessary to protect the safety of the mine or persons employed therein. This action can be taken subject to the provisions of section 22 and section 22A, and in accordance with the rules under section 39. However, such actions should not exceed the limits necessary to avoid serious interference with the ordinary working of the mine."
+      ]
+    },
+    {
+      "tag": "ExemptingRules_section-39",
+      "patterns": [
+        "What are exempting rules under Section 39 of the Coal Mines Safety Act?",
+        "Explain the provisions related to exempting rules in coal mines.",
+        "When can persons be exempted from certain mine safety provisions?",
+        "Tell me about exemptions in case of emergencies in mines.",
+        "What are the circumstances under which exemptions can be granted in coal mines?",
+        "Who has the authority to make exempting rules for coal mines?",
+        "Describe the conditions for exemptions from mine safety regulations.",
+        "Are there any exemptions for preparatory work in coal mines?",
+        "Explain the technical reasons for continuous work exemptions in mines.",
+        "How are exemptions granted for urgent repairs in coal mines?",
+        "The Coal Act 1952 section-39",
+        "The Coal Act 1952 section 39"
+      ],
+      "responses": [
+        "The Central Government has the authority to make exempting rules under Section 39 of the Coal Mines Safety Act, 1952. These rules provide for exemptions from the provisions of sections 28, 30, 31, 34, or sub-section (5) of section 36 in specific circumstances. Exemptions can be granted for persons employed in a mine in the case of emergencies, accidents, preparatory work, urgent repairs, and continuous work, subject to specified conditions and circumstances."
+      ]
+    },
     {
       "tag": "funny",
       "patterns": [
