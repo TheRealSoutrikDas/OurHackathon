@@ -21,6 +21,38 @@ body {
   background: linear-gradient(360deg, rgb(245, 255, 245) 0%, rgb(158, 72, 147) 100%);
 }
 
+nav .logo p{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Logo;
+  float: left;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+}
+nav ul{
+  float: right;
+  font-family: myFont;
+}
+nav li{
+  display: inline-block;
+  list-style: none;
+}
+nav li a{
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 0px 30px;
+  color: white;
+  text-decoration: none;
+}
+nav li a:hover{
+  color: #2e2c2a;
+  transition: all 0.4s ease 0s;
+}
+
+
+
 .container {
   max-width: 400px;
   width: 100%;
