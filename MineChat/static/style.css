@@ -68,9 +68,9 @@ body {
 =============== */
 .chatbox {
     position: absolute;
-    top: 9dvh;
+    top: 16dvh;
     bottom: 5dvh;
-    right: 9dvh;
+    right: 15dvh;
 }
 
 /* CONTENT IS CLOSE */
@@ -144,7 +144,7 @@ body {
 
 .chatbox__support {
     background: #f7f7f2;
-    height: 90dvh;
+    height: 80dvh;
     width: 180dvh;/*Changes chatbox width and height*/
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
     border-top-left-radius: 20px;

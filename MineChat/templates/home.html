@@ -40,14 +40,30 @@
     <div class="title-container">
         <h1>MINES AI</h1>
     </div>
-    <p>Ask about any legal query, anytime, anywhere</p>
+    <p>Ask about any legal query, anytime, anywhere<br>
+        Answers above 94% accuracy
+    </p>
 </section>
 <div class="chat-button-container">
-    <a href="/" class="chat-button">Chat Now</a>
+    <a href="/chat" class="chat-button">Chat Now</a>
 </div>
     <!--<button id="alertButton">Click Me</button>
 </section>-->
-    
+    <style>
+        .title-container h1 {
+          opacity: 0; /* Start with 0 opacity */
+          animation: fadeIn 1.5s ease-in-out forwards; /* Apply the fadeIn animation */
+        }
+      
+        @keyframes fadeIn {
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+      </style>
 
 <script src="script.js"></script>
 </body>
